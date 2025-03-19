@@ -755,7 +755,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/d/d8/Global_Citizen_Live_logo.jpg",013-Global Citizen
+#EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/d/d8/Global_Citizen_Live_logo.jpg",013=Global Citizen
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
