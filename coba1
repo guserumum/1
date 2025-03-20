@@ -5051,11 +5051,11 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7388
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7391
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA USA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="CHANNEL | INDIA",ZEE CINEMA USA
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7392
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC BOLLYWOOD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="CHANNEL | INDIA ",ZEE ETC BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ETC BOLLYWOOD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="CHANNEL | INDIA",ZEE ETC BOLLYWOOD
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7395
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="CHANNEL | INDIA",ZEE TV
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7406
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c1c3e486da01a79183e793d9f2102215.png" group-title="CHANNEL | INDIA ",ZING
+#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c1c3e486da01a79183e793d9f2102215.png" group-title="CHANNEL | INDIA",ZING
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7409
 #EXTINF:-1 tvg-id="" tvg-name="ZING INDIA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c1c3e486da01a79183e793d9f2102215.png" group-title="CHANNEL | INDIA",ZING INDIA
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/7410
@@ -5245,45 +5245,45 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | THAILAN TV
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="CHANNEL | THAILAN TV",DLTV 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | THAILAND TV
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="CHANNEL | THAILAND TV",DLTV 1
 https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="CHANNEL | THAILAN TV",DLTV 2
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="CHANNEL | THAILAND TV",DLTV 2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="CHANNEL | THAILAN TV",DLTV 3
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-logo="https://i.imgur.com/wmrxerm.png" group-title="CHANNEL | THAILAND TV",DLTV 3
 https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="CHANNEL | THAILAN TV",DLTV 4
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-logo="https://i.imgur.com/WkpoQhU.png" group-title="CHANNEL | THAILAND TV",DLTV 4
 https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="CHANNEL | THAILAN TV",DLTV 5
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-logo="https://i.imgur.com/J1E89jX.png" group-title="CHANNEL | THAILAND TV",DLTV 5
 https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="CHANNEL | THAILAN TV",DLTV 6
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-logo="https://i.imgur.com/qeIHWC0.png" group-title="CHANNEL | THAILAND TV",DLTV 6
 https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="CHANNEL | THAILAN TV",DLTV 7
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-logo="https://i.imgur.com/OjYwMe3.png" group-title="CHANNEL | THAILAND TV",DLTV 7
 https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="CHANNEL | THAILAN TV",DLTV 8
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-logo="https://i.imgur.com/xIwn5Ha.png" group-title="CHANNEL | THAILAND TV",DLTV 8
 https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="CHANNEL | THAILAN TV",DLTV 9
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-logo="https://i.imgur.com/yPeSAry.png" group-title="CHANNEL | THAILAND TV",DLTV 9
 https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="CHANNEL | THAILAN TV",DLTV 10
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="CHANNEL | THAILAND TV",DLTV 10
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="CHANNEL | THAILAN TV",DLTV 11
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-logo="https://i.imgur.com/hFk2b5s.png" group-title="CHANNEL | THAILAND TV",DLTV 11
 https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="CHANNEL | THAILAN TV",DLTV 12
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="CHANNEL | THAILAND TV",DLTV 12
 https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="CHANNEL | THAILAN TV",DLTV 13
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="CHANNEL | THAILAND TV",DLTV 13
 https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="CHANNEL | THAILAN TV",DLTV 14
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-logo="https://i.imgur.com/HOjZRNS.png" group-title="CHANNEL | THAILAND TV",DLTV 14
 https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="CHANNEL | THAILAN TV",DLTV 15
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-logo="https://i.imgur.com/onJi2b6.png" group-title="CHANNEL | THAILAND TV",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAN TV",News1
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAND TV",News1
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAN TV",WhiteChannel
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAND TV",WhiteChannel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAN TV",Thai PBS 3
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAND TV",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAN TV",Yateem TV (New!)
+#EXTINF:-1 tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL | THAILAND TV",Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 
 
@@ -5343,7 +5343,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTS
 
 
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="CHANNEL | SPORTS;CHANNEL | SPORTS", Unifi (UFC live) 
+#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="CHANNEL | SPORTS", Unifi (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -6709,37 +6709,37 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrim
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Infotainment.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/infotainment.png " group-title="CHANNEL | LIFESTYLE ",Infotainment
+#EXTINF:-1 tvg-id="Infotainment.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/infotainment.png " group-title="CHANNEL | LIFESTYLE",Infotainment
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Lifestyle & Fashion.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/lifestyle-fashion.png " group-title="CHANNEL | LIFESTYLE ",Lifestyle & Fashion
+#EXTINF:-1 tvg-id="Lifestyle & Fashion.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/lifestyle-fashion.png " group-title="CHANNEL | LIFESTYLE",Lifestyle & Fashion
 https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Rock Entertainment.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rock-entertainment.png " group-title="CHANNEL | LIFESTYLE ",Rock Entertainment
+#EXTINF:-1 tvg-id="Rock Entertainment.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rock-entertainment.png " group-title="CHANNEL | LIFESTYLE",Rock Entertainment
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Rock Action.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rock-action-1.png " group-title="CHANNEL | LIFESTYLE ",Rock Action
+#EXTINF:-1 tvg-id="Rock Action.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rock-action-1.png " group-title="CHANNEL | LIFESTYLE",Rock Action
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="CrimeInvestigation.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/crime-investigation.png " group-title="CHANNEL | LIFESTYLE ",Crime Investigation
+#EXTINF:-1 tvg-id="CrimeInvestigation.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/crime-investigation.png " group-title="CHANNEL | LIFESTYLE",Crime Investigation
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="MNCShop.Id" tvg-logo="https://img.okezone.com/content/2012/11/13/54/717961/uCJMIQwyGT.jpg " group-title="CHANNEL | LIFESTYLE ",MNCShop
+#EXTINF:-1 tvg-id="MNCShop.Id" tvg-logo="https://img.okezone.com/content/2012/11/13/54/717961/uCJMIQwyGT.jpg " group-title="CHANNEL | LIFESTYLE",MNCShop
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
 
@@ -9215,71 +9215,71 @@ https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8
 //Collected by @mimipipi22 menampilkan playlist >>> BEIN SPORT
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | BEIN SPORT
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTS
  
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beINSports 1 (VISION+) 
+#EXTINF:-1 tvg-id="beINSports" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beINSports 1 (VISION+) 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports2" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beINSports 2 (VISION+) 
+#EXTINF:-1 tvg-id="beINSports2" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beINSports 2 (VISION+) 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports3" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beINSports 3 (VISION+) 
+#EXTINF:-1 tvg-id="beINSports3" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beINSports 3 (VISION+) 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports5" group-title="CHANNEL | BEIN SPORT" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beINSports 5 (VISION+) 
+#EXTINF:-1 tvg-id="beINSports5" group-title="CHANNEL | SPORTS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png",beINSports 5 (VISION+) 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",BEIN SPORTS 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium92/mono.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",BEIN SPORTS 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium93/mono.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",BEIN SPORTS 4 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium94/mono.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",BEIN SPORTS 5 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium95/mono.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",BEIN SPORTS 6 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium96/mono.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",BEIN SPORTS 7 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",BEIN SPORTS 7 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium97/mono.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",BEIN SPORTS 8 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",BEIN SPORTS 8 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium98/mono.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | BEIN SPORT" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png",BEIN SPORTS 9 AR
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png",BEIN SPORTS 9 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://dokko1new.iosplayer.ru/dokko1/premium99/mono.m3u8
@@ -9586,7 +9586,7 @@ https://canale.mizhls.ru/lb/premium415/playlist.m3u8
 
 
 
-======================== CHANNEL | MOVIES ====================
+======================== CHANNEL | MOVIES====================
 
 
 
@@ -9649,7 +9649,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestia
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="CHANNEL | MOVIES ",B4U MOVIES
+#EXTINF:-1 tvg-chno="" tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://static.epg.best/in/B4UMovies.in.png" group-title="CHANNEL | MOVIES",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 
@@ -9963,9 +9963,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 ################# LIVE VOLLY KOREA ################
 
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTS KOREA
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SPORTS
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://iili.io/JMp3DJf.png" group-title="CHANNEL | SPORTS KOREA",TVRI Sport
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://iili.io/JMp3DJf.png" group-title="CHANNEL | SPORTS",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
