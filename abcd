@@ -842,6 +842,10 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="A.1 PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",103=TV3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+#http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1732
 
 <------------------------------------------- MALAYSIA 4 -------------------------------------------->
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="A.1 PILIHAN",104-Okey RTM [Geo-blocked]
