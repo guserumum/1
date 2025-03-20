@@ -798,6 +798,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=5|Referer="https
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",101=TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="A.1 PILIHAN",101=TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+
 <------------------------------------------- MALAYSIA 2 -------------------------------------------->
 #EXTINF:-1 tvg-id="" tvg-name="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/440px-TV2_%28Malaysia%29_logo.svg.png" group-title="A.1 PILIHAN",102-TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1|Referer="https://rtmklik.rtm.gov.my"
@@ -806,6 +813,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8?id=1|Referer="http
 
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",102=TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/440px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="A.1 PILIHAN",102=TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+
 
 <------------------------------------------- MALAYSIA 3 -------------------------------------------->
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="A.1 PILIHAN",103-TV3
@@ -822,6 +835,14 @@ https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_servi
 
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",103=TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="A.1 PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",103=TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+
+
+
+
 <------------------------------------------- MALAYSIA 4 -------------------------------------------->
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="A.1 PILIHAN",104-Okey RTM [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
@@ -829,6 +850,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",104=Okey Tv
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="A.1 PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",104=TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 <------------------------------------------- MALAYSIA 5 -------------------------------------------->
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",105-TVS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -849,6 +874,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",106=TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="A.1 PILIHAN",106=TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 <------------------------------------------- MALAYSIA 7 -------------------------------------------->
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",107-DidikTv KPM
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
@@ -916,7 +944,11 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="A.1 PILIHAN"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",113=Dunia Sinema HD
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 <------------------------------------------- MALAYSIA 114 -------------------------------------------->
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -12234,7 +12266,6 @@ https://www.dropbox.com/s/2zykmf0m4w342yo/veronica%20leal%20balls%20deep%20fucki
 https://www.dropbox.com/s/0qqxy46wp8438ob/waking%20up%20a%20busty%20asian%20to%20titty%20fuck%20her%20big%20natural%20boobs%20-shareext21%2B.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7TL54cv/IMG-20210723-220247.png"group-title="ZZZ",Webcam Japan
 https://www.dropbox.com/s/chjf6o24bi3pt28/webcam%20japanese%20094shareext21%2B.mp4?dl=1
-
 
 
 
