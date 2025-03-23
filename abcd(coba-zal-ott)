@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/cinemaworld.png?raw=true" group-title="Premium",001  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)  
 
