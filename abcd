@@ -1258,7 +1258,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
-
+#EXTINF:-1 tvg-id="tvn" tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="A.3 MOVIE",003=TVN Movies (dens)  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)  
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8 
 <-------------------------------- KIX 004 ---------------------------------------------------->
 
 
