@@ -1368,7 +1368,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 #EXTINF:-1 group-title="A.3 MOVIE"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",010-ATV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn11jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+https://cdn11jtedge.indihometv.com/atm/mpd-vo/atv/manifest.mpd?encp=&uid=&expp=
 <========================================== A.4 DOUYU ================================================>
 #EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="A.4 DOUYU",001 Bioskop Terlaris 1
 http://epg.112114.xyz/douyu/20415
