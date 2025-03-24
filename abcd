@@ -847,6 +847,9 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 #http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1732
 
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="A.1 PILIHAN",103=MY: TV 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/158360
 <------------------------------------------- MALAYSIA 4 -------------------------------------------->
 #EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="A.1 PILIHAN",104-Okey RTM [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
@@ -863,6 +866,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV Sarawak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/35fb700579ac30c2d645b95f40e70dc5.png" group-title="A.1 PILIHAN",105=MY: TV Sarawak
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/247442
 
 <------------------------------------------- MALAYSIA 6 -------------------------------------------->
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="A.1 PILIHAN",106-TV 6
@@ -898,6 +905,10 @@ https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: 8TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="A.1 PILIHAN",108=MY: 8TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/171968
+
 <------------------------------------------- MALAYSIA 9 -------------------------------------------->
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/Krh1F8d.png" group-title="A.1 PILIHAN",109-TV9
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
@@ -910,6 +921,11 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4}
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live09.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="A.1 PILIHAN",109=MY: TV 9
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/171953
+
+
 <------------------------------------------- MALAYSIA 110 -------------------------------------------->
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1061,6 +1077,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Bernama TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5e74e05594b34f529cc9a9d9fbabaf80.png" group-title="A.1 PILIHAN",302-MY: Bernama TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264517
 <--------------------------------------------------------------------------------------->
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="A.1 PILIHAN",303 Sukan RTM
@@ -1074,6 +1094,9 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 <--------------------------------------------------------------------------------------->
 #EXTINF:-1 tvg-id="" tvg-name="MY: Suke TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/f421ea536ec3f8efae04aa54cc206d11.png" group-title="A.1 PILIHAN",305 Suke TV
 http://aflaxtv.xyz:8080/Wat068/924a937d/306505
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Suke TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/f421ea536ec3f8efae04aa54cc206d11.png" group-title="A.1 PILIHAN",305=MY: Suke TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306505
 <--------------------------------------------------------------------------------------->
 
 #EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
@@ -1160,6 +1183,38 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/1200px-RTHK_TV_35.svg.png",415 RTHK TV 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro AEC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/59e1195922dfbaa08b9d5633c30e8f50.png" group-title="A.1 PILIHAN",416-MY: Astro AEC
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/247409
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Aura" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/8a7da6b01b1d3530bd1b1d4d4bcc8a4e.png" group-title="A.1 PILIHAN",417-MY: Astro Aura
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/171986
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Citra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a7cbb090c3d95828339e5b2ca15d5b92.png" group-title="A.1 PILIHAN",418-MY: Astro Citra
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157569
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro IQIYI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/9bfeddaab696001c507a5f126595aaa2.png" group-title="A.1 PILIHAN",419-MY: Astro IQIYI
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306494
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Oasis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="A.1 PILIHAN",420-MY: Astro Oasis
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157489
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Prima" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="A.1 PILIHAN",421-MY: Astro Prima
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157467
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Tutor TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/8da09ee59af6912e1ab2270a171d9a88.png" group-title="A.1 PILIHAN",422-MY: Astro Tutor TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/247431
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Vaanavil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="A.1 PILIHAN",423-MY: Astro Vaanavil
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/201163
+<--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="" tvg-name="MY: Awesome TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/67d95e34e888d29f89126611bbb61d7a.png" group-title="A.1 PILIHAN",424-MY: Awesome TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306499
+
+<--------------------------------------------------------------------------------------->
+
+
+
 
 <====================== A.2 HBO ======================>
 <-------------------------------- HBO 001 ----------------------------------------->
@@ -1235,6 +1290,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celestia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="A.3 MOVIE",001=MY: Celestial Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/174687
 <-------------------------------- CCM 002 ---------------------------------------------------->
 
 
@@ -1256,7 +1315,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 <-------------------------------- TVN 003 ---------------------------------------------------->
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="A.3 MOVIE",003-TVN Movies (dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
 #EXTINF:-1 tvg-id="tvn" tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="A.3 MOVIE",003=TVN Movies (dens)  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)  
@@ -1307,7 +1366,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="A.3 MOVIE",004=KIX 
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="MY: KIX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/66fa4b713f7285f31deb54c97d10bf3c.jpg" group-title="A.3 MOVIE",004=MY: KIX
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/299963
 <-------------------------------- MCA 005 ---------------------------------------------------->
 
 #EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="A.3 MOVIE",005-My Cinema Asia (dens)
