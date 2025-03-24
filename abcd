@@ -1320,6 +1320,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 #EXTINF:-1 tvg-id="tvn" tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="A.3 MOVIE",003=TVN Movies (dens)  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)  
 https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="A.3 MOVIE",003=MY: TVN Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297499
 <-------------------------------- KIX 004 ---------------------------------------------------->
 
 
@@ -1432,9 +1435,11 @@ https://cdn11jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 
 #EXTINF:-1 group-title="A.3 MOVIE" tvg-logo="https://images.indihometv.com/logo_atv_big.png",10=ATV[INDIHOME]
 https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+<-------------------------------- HITS MOVIE ---------------------------------------------------->
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="MY: HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="A.3 MOVIE",11-MY: HITS Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157477
+<------------------------------------------------------------------------------------------------->
 ======================== A.4 CHANNEL | MOVIES====================
 
 
