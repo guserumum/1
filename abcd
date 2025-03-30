@@ -4376,47 +4376,47 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 
 
 
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs00-00
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs00&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs01-XNTA
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs03
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs06-J Music
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs07- Kids Station
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs08-iscovery
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs09
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs10-National Geographic
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs11-TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",c12
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs13
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs14
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs15-BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs16-CNN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs17-Gaora
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs18-MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs19-Lala
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
-#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",cs20
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="A.10 Japan-Test",test cs
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
