@@ -4370,8 +4370,8 @@ http://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mp
 
 <-------------------------------------------------------------------------------------------------------------------->
 
-#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/ssp.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 Japan-Test",-=Space Shower Plus TV
-https://code.vthanhtivi.pw/getlink/jptv2/155/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/ssp.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 Japan-Test",-Space Shower Plus TV
+https://code.vthanhtivi.pw/getlink/jptv/QhdGbVgbJKI-AuLKLoBlhw==/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/ssp.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 Japan-Test",-=Space Shower Plus TV
 https://code.vthanhtivi.pw/getlink/jptv/P86mGOvGtsJuOiIBozlSTA==/playlist.m3u8 
@@ -4379,9 +4379,6 @@ https://code.vthanhtivi.pw/getlink/jptv/P86mGOvGtsJuOiIBozlSTA==/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/800px-SPACE_SHOWER_TV.jpg" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 Japan-Test",-Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
-
-#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/SPACE_SHOWER_TV.jpg/800px-SPACE_SHOWER_TV.jpg" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 Japan-Test",-=Space Shower TV
-https://code.vthanhtivi.pw/getlink/jptv2/236/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="A.10 Japan-Test",-MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
