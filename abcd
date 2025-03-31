@@ -6613,7 +6613,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS220&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS221&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="A.10 Japan-Test",Willfon CS-222
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS222&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="A.10 Japan-Test",Willfon CS-223
+#EXTINF:-1 tvg-id="nhkg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Neco_og_image_1500_1500.jpg" group-title="A.10 Japan-Test",Willfon CS-223 Channel Neco
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="A.10 Japan-Test",Willfon CS-224
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS224&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -14354,7 +14354,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="ytv" tvg-logo="https://uspto.report/TM/88550816/mark", Channel Neco  
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="ytv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Neco_og_image_1500_1500.jpg", Channel Neco  
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
@@ -14435,7 +14435,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 / Eisei Gekijo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 
-#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", 映画・チャンネルNECO / Neco 
+#EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="neco" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Neco_og_image_1500_1500.jpg", 映画・チャンネルNECO / Neco 
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
