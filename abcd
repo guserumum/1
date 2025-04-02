@@ -1,35 +1,8 @@
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",Imelda FM Semarang
 https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",Imelda FM Semarang (RO)
-https://api.instant.audio/data/playlist/57/imelda-semarang
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",Gajah Mada FM Semarang (I)
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",Gajah Mada FM Semarang
 https://server.radioimeldafm.co.id:8040/gajahmadafm
 
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",Gajah Mada FM Semarang (RO)
-https://pagead2.googlesyndication.com/pagead/gen_204?id=slotcar&cvw=1280&cvh=279&ovw=1280&ovh=549&event=ad_rdtr&client=ca-pub-6771940464972938&bow_v=r20250401&js_v=m202503270101&fetcher=adsense&eid=95355973,95355975,31091334,42532524,95356500,95356505,95356788,95356928,31061690
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",Kiss FM Semarang
-http://103.28.148.18:8070/;stream.nsv
-
-#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",Malang Kucecwara FM
-http://202.164.218.22:8222
-
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="A.11 CHANNEL | RADIO",Suara Surabaya FM
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/IRadio_%282012%29.png/400px-IRadio_%282012%29.png" group-title="A.11 CHANNEL | RADIO",iRadio
-https://n0b.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABh1BOeOUAFgc7yqd1wPOUtQ
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="A.11 CHANNEL | RADIO",Nagaswara FM
-https://live.nagaswarafm.com:9900/stream
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/OZ_Radio_bandung.png" group-title="A.11 CHANNEL | RADIO",OZ Radio FM
-http://45.64.97.211:1031/;stream.nsv
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://cimanggubogor.com/wp-content/uploads/2019/03/logo-kisi-fm-bogor.jpg" group-title="A.11 CHANNEL | RADIO",KISI FM Bogor
-http://live.serverstreaming.net:9340/kisifm
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="A.11 CHANNEL | RADIO",KISI FM Bogor
-https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
-
-
-
-
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/radio.jpg" group-title="A.11 CHANNEL | RADIO",RCT FM Semarang
+https://i.klikhost.com:9614/;
