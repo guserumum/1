@@ -1,376 +1,201 @@
-日本频道,#genre#
-NHK Japan,http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-AT-X，https://sub.neetball.net/live/neet.m3u8
-群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
-Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)\
-
-
-🇯🇵日本,
-NHK General,http://rip.hidari.moe/get/jptv/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
-NHK Education TV,http://rip.hidari.moe/get/jptv/get.php?id=hnsnBqHDt2EXQupW2soBjw==
-Nippon TV,http://rip.hidari.moe/get/jptv/get.php?id=4SlJSS46Vw5igmOdvfKMww==
-TBS TV,http://rip.hidari.moe/get/jptv/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
-FUJI TV,http://rip.hidari.moe/get/jptv/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
-TV ASAHI,http://rip.hidari.moe/get/jptv/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
-TV TOKYO,http://rip.hidari.moe/get/jptv/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
-TOKYO MX 1,http://rip.hidari.moe/get/jptv/get.php?id=9-SZo2YQISIfL52o5p6Wtg==
-TOKYO MX 2,http://rip.hidari.moe/get/jptv/get.php?id=u6-t-I0UVIdrkCYJzXFkpg==
-NHK General・OSAKA,http://rip.hidari.moe/get/jptv/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
-NHK Education・OSAKA,http://rip.hidari.moe/get/jptv/get.php?id=Efifu_2sffWgvfUzPuoNvA==
-MBS,http://rip.hidari.moe/get/jptv/get.php?id=ZOJu5avj3LIqoRXR9ogC0w==
-KBS KYOTO,http://rip.hidari.moe/get/jptv/get.php?id=-th1_a7-fXyMoWDACk-jjg==
-ABC TV,http://rip.hidari.moe/get/jptv/get.php?id=G2VFEt11D2hQyexpltLAFQ==
-TV OSAKA,http://rip.hidari.moe/get/jptv/get.php?id=Ep1PQsectdEoqb5giVMrdw==
-Kansai TV,http://rip.hidari.moe/get/jptv/get.php?id=M1nVWHnA3F2pv8mBmfM0PQ==
-Yomiuri TV,http://rip.hidari.moe/get/jptv/get.php?id=hYnuGNMX-sWlu6qDdQe5bg==
-NHK BS1,http://rip.hidari.moe/get/jptv/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
-NHK BS Premium,http://rip.hidari.moe/get/jptv/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
-BS Nippon TV,http://rip.hidari.moe/get/jptv/get.php?id=OW-ptn455y7PFTNGgwS2mg==
-BS Asahi,http://rip.hidari.moe/get/jptv/get.php?id=BIvrrhxU6N9OlSgVT-HPrQ==
-BS TBS,http://rip.hidari.moe/get/jptv/get.php?id=PsnqEBgAyeiCC2gXhv5ODQ==
-BS Japan,http://rip.hidari.moe/get/jptv/get.php?id=LmVq1wXCa4u6hpFsEFO79w==
-BS FUJI,http://rip.hidari.moe/get/jptv/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
-WOWOW Prime,http://rip.hidari.moe/get/jptv/get.php?id=CXrJaWUllYhR6k5e0_K46w==
-WOWOW Live,http://rip.hidari.moe/get/jptv/get.php?id=uvUJ5ldHHBqaZg9YQQxgxA==
-WOWOW Cinema,http://rip.hidari.moe/get/jptv/get.php?id=cGESSfZuFTTLxxX_J8lP-g==
-Star Channel 1,http://rip.hidari.moe/get/jptv/get.php?id=juX1wIFGTBstyURxb0adxA==
-Star Channel 2,http://rip.hidari.moe/get/jptv/get.php?id=i9U0n9TJ5odRHqWxtilBRA==
-Star Channel 3,http://rip.hidari.moe/get/jptv/get.php?id=beeePf9abTTxyUvqbD_WCg==
-BS Eleven,http://rip.hidari.moe/get/jptv/get.php?id=pGtcPp5upFDuPqvtBIBFlA==
-TwellV,http://rip.hidari.moe/get/jptv/get.php?id=VjsmFuZg2hW97hJFAhl5JA==
-Green Channel,http://rip.hidari.moe/get/jptv/get.php?id=CMfSibcxJVwYmogFl7mUww==
-BS Animax,http://rip.hidari.moe/get/jptv/get.php?id=iyXsMcSj-uHvpI6JnMMlTg==
-J SPORTS 1,http://rip.hidari.moe/get/jptv/get.php?id=EYDXkRRGT1GJnkUTfJvLHA==
-J SPORTS 2,http://rip.hidari.moe/get/jptv/get.php?id=JZgVUmwbYrMVRyY5Nd9SeQ==
-J SPORTS 3,http://rip.hidari.moe/get/jptv/get.php?id=358gZ5rWh4F-yvAp8Lo8oA==
-J SPORTS 4,http://rip.hidari.moe/get/jptv/get.php?id=tTq2foSxnDwUGgO8UzrEsw==
-BS Fishing Vision,http://rip.hidari.moe/get/jptv/get.php?id=XRk9DTFoUhLhrV1PTY1Y8g==
-WOWOWプラス,http://rip.hidari.moe/get/jptv/get.php?id=QEVz-1pR9Lo_m2bc2dqHfQ==
-BS Japan Movie Channel,http://rip.hidari.moe/get/jptv/get.php?id=3gRJVhGxoMfVJkN7NVEBRw==
-Disney Channel,http://rip.hidari.moe/get/jptv/get.php?id=iEpvKTL_zcrh2cTR1D8EUA==
-BS松竹東急,http://rip.hidari.moe/get/jptv/get.php?id=l6kArOPkx3rCe-BY5PGk5Q==
-BSJapanext,http://rip.hidari.moe/get/jptv/get.php?id=Hj8HzlXSQnqBFMUva4MA4g==
-BSよしもと,http://rip.hidari.moe/get/jptv/get.php?id=7_NqQ8YhAIHChUndlSRpYQ==
-Toei Channel,http://rip.hidari.moe/get/jptv/get.php?id=ItLramN_-gvnHdVeTBK5rw==
-Satellite Theater,http://rip.hidari.moe/get/jptv/get.php?id=y9B2Ps-kiNKOHg8ajJvTZg==
-Movie Channel NECO,http://rip.hidari.moe/get/jptv/get.php?id=IV-rbOb904jfHM_7iXe9DA==
-The Cinema,http://rip.hidari.moe/get/jptv/get.php?id=QPelIt74En18qe57ctzA7g==
-Movie Plus HD,http://rip.hidari.moe/get/jptv/get.php?id=wQ48znPA79zr2-B4wl5oLA==
-SKY A,http://rip.hidari.moe/get/jptv/get.php?id=A4lYoKDkHOcgUrptRIlo7A==
-GAORA SPORTS,http://rip.hidari.moe/get/jptv/get.php?id=UT2nCjamOel4BnlTu1QDNA==
-NTV G+,http://rip.hidari.moe/get/jptv/get.php?id=4O3P2VsYGiDOYYHUKuF_1Q==
-Golf Network HD,http://rip.hidari.moe/get/jptv/get.php?id=9WvIBSpypx2Lr8C2qE5yag==
-TAKARAZUKA SKY STAGE,http://rip.hidari.moe/get/jptv/get.php?id=8qP22e52mcp47prxNsRFnw==
-ERA Drama HD,http://rip.hidari.moe/get/jptv/get.php?id=gC-YspGyid2iV7lkCGKoIQ==
-Family Theatre HD,http://rip.hidari.moe/get/jptv/get.php?id=pC9SVqTKbtqAFHB3yptOvQ==
-Home Drama Channel,http://rip.hidari.moe/get/jptv/get.php?id=zD22iesg6Np63Z-FtiU0yQ==
-MONDO TV,http://rip.hidari.moe/get/jptv/get.php?id=9g6-swdY3TjA9l_YNNpyVw==
-TBS Channel 1,http://rip.hidari.moe/get/jptv/get.php?id=_bwLlWVan3L2aFbRgIwl5A==
-TBS Channel 2,http://rip.hidari.moe/get/jptv/get.php?id=yne-RIzKldOS0m8piD-MIQ==
-TV ASAHI Channel 1,http://rip.hidari.moe/get/jptv/get.php?id=RSLBSv8wc5UF7dw1kqw0mA==
-TV ASAHI Channel 2,http://rip.hidari.moe/get/jptv/get.php?id=i_CNGuFyQvXFw0HaxOrkwA==
-NTV Plus,http://rip.hidari.moe/get/jptv/get.php?id=2r3DLY7ry05LXxk6xwMclA==
-Channel Ginga,http://rip.hidari.moe/get/jptv/get.php?id=4l4-dnqo_QogE3f-K13UBw==
-FUJI TV ONE,http://rip.hidari.moe/get/jptv/get.php?id=Dx6WyGj7aJoy6QyTUbq2dg==
-FUJI TV TWO,http://rip.hidari.moe/get/jptv/get.php?id=xU1ix5hIdSVM9DfWLcR0Mg==
-FUJI TV NEXT,http://rip.hidari.moe/get/jptv/get.php?id=xPyiMHfxozuDu6vNznDdXA==
-Super Drama TV HD,http://rip.hidari.moe/get/jptv/get.php?id=wZWk8tf5_mxogAG-EV6zIA==
-AXN,http://rip.hidari.moe/get/jptv/get.php?id=7DAgtceRMrmqB0tdsO6edw==
-FOX,http://rip.hidari.moe/get/jptv/get.php?id=Wv2NQ8gIdBfUArnsKIsdIg==
-Lala TV,http://rip.hidari.moe/get/jptv/get.php?id=ILDkgXAatvb35zAsThvQtw==
-AXN Mystery,http://rip.hidari.moe/get/jptv/get.php?id=ajfvfjzToRaRPAD0O83-MQ==
-100% Hits! Space Shower TV Plus,http://rip.hidari.moe/get/jptv/get.php?id=QhdGbVgbJKI-AuLKLoBlhw==
-Space Shower TV,http://rip.hidari.moe/get/jptv/get.php?id=P86mGOvGtsJuOiIBozlSTA==
-MTV HD,http://rip.hidari.moe/get/jptv/get.php?id=NiX8rRFsK_OA54lDclyKdA==
-MUSIC ON! TV HD,http://rip.hidari.moe/get/jptv/get.php?id=_RVyS6Uym1zs93N3KvDcsw==
-Music Air,http://rip.hidari.moe/get/jptv/get.php?id=Jl0-Wqlcv-_Y15-k2ocPIw==
-Kayo Pops Channel,http://rip.hidari.moe/get/jptv/get.php?id=1Tr6-XU6jnR9bECmjsJg8g==
-Kids Station,http://rip.hidari.moe/get/jptv/get.php?id=xuRJ2NXuC2ezP38iwgYdXQ==
-Overseas Animation Cartoon Network,http://rip.hidari.moe/get/jptv/get.php?id=noeD-Yf5Rph09MTEByH-Xw==
-AT-X,http://rip.hidari.moe/get/jptv/get.php?id=Nxk7xMmj7dV7iq_k08p2fQ==
-Disney Junior,http://rip.hidari.moe/get/jptv/get.php?id=chTowUHZLkQGzE_HtjvDXw==
-Discovery Channel,http://rip.hidari.moe/get/jptv/get.php?id=BCUcKhY7Q2Hc77kEleR6Xg==
-Animal Planet,http://rip.hidari.moe/get/jptv/get.php?id=yc9YiPXQOz6wYWMISJg0qA==
-History Channel,http://rip.hidari.moe/get/jptv/get.php?id=oWzrTCMQhvoY50i57r6nFg==
-National Geographic Channel,http://rip.hidari.moe/get/jptv/get.php?id=9h8RMkNuQcltIKv6FgX95Q==
-Nippon TV News 24,http://rip.hidari.moe/get/jptv/get.php?id=TV1iYA79TqPdozWbwpOSgg==
-TBS News Bird,http://rip.hidari.moe/get/jptv/get.php?id=sav5tXuUrcoph5lTYKULrg==
-BBC World News,http://rip.hidari.moe/get/jptv/get.php?id=CD1WV8e72IOd2RjnuSPgxw==
-CNNj,http://rip.hidari.moe/get/jptv/get.php?id=hVlErRkxgtD7mpAR6ZXPmQ==
-Igo Shogi Channel,http://rip.hidari.moe/get/jptv/get.php?id=G7Ernt-n_X5V7KUcreybIQ==
-Sportslive Plus,http://rip.hidari.moe/get/jptv/get.php?id=4bxbDgOoPvVu1jn-JcPCIA==
-Travel Channel HD,http://rip.hidari.moe/get/jptv/get.php?id=c_IpqG7O23FD4yB8sKwPzg==
-Tetsudo Channel,http://rip.hidari.moe/get/jptv/get.php?id=Ih6yFFU-BWZYUxzjKvFzwg==
-Fighting TV Samurai,http://rip.hidari.moe/get/jptv/get.php?id=Yg2MUia31VB-YVInrMhFMw==
-Music Japan TV,http://rip.hidari.moe/get/jptv/get.php?id=QMo2pn1hiih5XYKptbKfuA==
-Pigoo HD,http://rip.hidari.moe/get/jptv/get.php?id=ZPMe9i21mYzj4bNOlaYSyQ==
-Dance Channel,http://rip.hidari.moe/get/jptv/get.php?id=3aoWlvySJvrMYkUxn_QO-g==
-
-TBS News,https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
-NTV News24,https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
-ANIPLUS (ID),http://210.210.155.35/dr9445/h/h02/01.m3u8
-Japanet Channel DX(1080p),https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-New Japan Pro Wrestling World,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-Nippon TV (540p) [Not 24/7],https://ntv3.mov3.co/hls/ntv.m3u8
-TBS (540p) [Not 24/7],https://tbs2.mov3.co/hls/tbs.m3u8
-日テレNEWS24 / NTV News 24,https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
-
-NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-NHK BS1,http://redlabmcdn.s.llnwi.net/nv02/bs01hd/playlist.m3u8
-NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
-NHK BSP,http://redlabmcdn.s.llnwi.net/nv02/bs02hd/playlist.m3u8
-BS Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/bs03hd/playlist.m3u8
-BS Asahi,http://redlabmcdn.s.llnwi.net/nv02/bs04hd/playlist.m3u8
-BS-TBS,http://redlabmcdn.s.llnwi.net/nv02/bs05hd/playlist.m3u8
-BS TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/bs06hd/playlist.m3u8
-BS Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/bs07hd/playlist.m3u8
-BS 12 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
-BS 12,http://redlabmcdn.s.llnwi.net/nv02/bs08hd/playlist.m3u8
-Star 1 (480p),http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
-Star 1,http://redlabmcdn.s.llnwi.net/nv02/bs09hd/playlist.m3u8
-Star 2,http://redlabmcdn.s.llnwi.net/nv02/bs10hd/playlist.m3u8
-J Sports 2,http://redlabmcdn.s.llnwi.net/nv02/bs11hd/playlist.m3u8
-J Sports 3,http://redlabmcdn.s.llnwi.net/nv02/bs12hd/playlist.m3u8
-Disney Channel Japan,http://redlabmcdn.s.llnwi.net/nv02/bs13hd/playlist.m3u8
-Animax (480p),http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
-J Sports 1,http://redlabmcdn.s.llnwi.net/nv02/bs15hd/playlist.m3u8
-NHK E,http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/playlist.m3u8
-NHK G,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
-Nippon TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/playlist.m3u8
-TBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/playlist.m3u8
-TV Asahi (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-TV Asahi,https://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-MBS,http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/playlist.m3u8
-TV Tokyo,http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/playlist.m3u8
-Fuji TV (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-Fuji TV,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-Kirin,http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-Tokyo MX1 (480p),http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-NitteleG+,http://redlabmcdn.s.llnwi.net/nv02/cs01hd/index.m3u8
-http://redlabmcdn.s.llnwi.net/nv02/cs02hd/index.m3u8
-gold network,http://redlabmcdn.s.llnwi.net/nv02/cs03hd/index.m3u8
-kids station,http://redlabmcdn.s.llnwi.net/nv02/cs04hd/index.m3u8
-http://redlabmcdn.s.llnwi.net/nv02/cs05hd/index.m3u8
-Discovery Channel,http://redlabmcdn.s.llnwi.net/nv02/cs06hd/index.m3u8
-wowow cinema,http://redlabmcdn.s.llnwi.net/nv02/cs07hd/index.m3u8
-
-BS Asahi,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS Fuji,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS Nittere,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS Sky PerfecTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS TV Tokyo,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS-NTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS-TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Fuji TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK BS Premium,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK E,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK G,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Nippon TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-TV Asahi,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-TV Tokyo,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ＷＯＷＯＷプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ＷＯＷＯＷライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ＷＯＷＯＷシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル１,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル２,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル３,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-映画・チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-GAORASPORTS,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレジータス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレNEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-MUSICON!TV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スーパー！ドラマＴＶ,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ＡＸＮ,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-FOX,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-時代劇専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ファミリー劇場,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-アニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-キッズステーション,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-CNNj,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ＢＳ釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-失效,
-ABC,https://cdnul194.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
-MBS,https://cdnul194.cloudrsst.com/live/kansi_mbs_1080/playlist.m3u8
-Kansai TV,https://cdnul194.cloudrsst.com/live/kansi_tv_1080/playlist.m3u8
-TV Osaka,https://cdnul194.cloudrsst.com/live/kansi_tv_osaka_1080/playlist.m3u8
-SUN TV (720p),https://cdnul194.cloudrsst.com/live/kansi_sun_tv_1080/playlist.m3u8
-Yomiuri TV,https://cdnul194.cloudrsst.com/live/kansi_yomiuri_1080/playlist.m3u8
-TBS,https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
-TV Asahi(720p),https://cdnul194.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
-TV Tokyo,https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
-TOKYO MX1,https://cdnul194.cloudrsst.com/live/kanto_tokyo_mx1_1080/playlist.m3u8
-NTV(720p),https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
-Fuji TV,https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
-NHK G,https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
-NHK E,https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
-NHK BSP (720p),https://cdnul194.cloudrsst.com/live/bspremium_720/playlist.m3u8
-NHK BS1 (720p),https://cdnul194.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
-BS Asahi (720p),https://cdnul194.cloudrsst.com/live/bsasahi_720/playlist.m3u8
-BS Fuji TV (720p),https://cdnul194.cloudrsst.com/live/bsfuji_720/playlist.m3u8
-BS TV Tokyo,https://cdnul194.cloudrsst.com/live/bsjapan_720/playlist.m3u8
-BS Nippon TV (720p),https://cdnul194.cloudrsst.com/live/bsnihontv_720/playlist.m3u8
-BS TBS,https://cdnul194.cloudrsst.com/live/bstbs_720/playlist.m3u8
-BS Animax,https://cdnul194.cloudrsst.com/live/janimax_720/playlist.m3u8
-Star 1 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
-Star 2 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
-Star 3 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
-WOWOW Live (720p) ,https://cdnul194.cloudrsst.com/live/wowlive_720/playlist.m3u8
-WOWOW Plus,https://cdnul194.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
-WOWOW Prime(720p),https://cdnul194.cloudrsst.com/live/wowprime_720/playlist.m3u8
-WOWOW Cinema,https://cdnul194.cloudrsst.com/live/wowcinema_720/playlist.m3u8
-Nihon Eiga Senmon (720p),https://cdnul194.cloudrsst.com/live/igasennmonn_720/playlist.m3u8
-Jidaigeki Senmon Channel (720p),https://cdnul194.cloudrsst.com/live/jidaigeki_720/playlist.m3u8
-ムービープラス / Movie Plus,https://cdnul194.cloudrsst.com/live/movieplus_720/playlist.m3u8
-ホームドラマチャンネル / Home Drama Channel,https://cdnul194.cloudrsst.com/live/Home_Drama_720/playlist.m3u8
-ファミリー劇場 / Family Gekijyo,https://cdnul194.cloudrsst.com/live/familytheater_720/playlist.m3u8
-Kids Station (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jkids_720/playlist.m3u8
-Sky A (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/Sky_A_720/playlist.m3u8
-Nittele G+ Sports & News (720p),https://cdnul194.cloudrsst.com/live/japan_tv_G_720/playlist.m3u8
-Discovery (720p),http://cdnul194.cloudrsst.com/live/jdiscovery_720/playlist.m3u8
-J Sports 1 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports1_720/playlist.m3u8
-J Sports 2 (720p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
-J Sports 3 (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports3_540/playlist.m3u8
-J Sports 4 (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/jsports4_540/playlist.m3u8
-Toei Channel (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/toa_540/playlist.m3u8
-Eisei Gekijo (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/gekijjyou/playlist.m3u8
-Disney Channel,https://cdnul194.cloudrsst.com/live/j_disney_channel_540/playlist.m3u8
-Disney Junior Japan (540p) [Not 24/7],https://cdnul194.cloudrsst.com/live/disney_junior/playlist.m3u8
-Neco (540p),https://cdnul194.cloudrsst.com/live/Neco/playlist.m3u8
-FOX (540p),https://cdnul194.cloudrsst.com/live/jfox/playlist.m3u8
-GAORA SPORTS,https://cdnul194.cloudrsst.com/live/GaoRa_540/playlist.m3u8
-Green Channel,https://cdnul194.cloudrsst.com/live/green_540/playlist.m3u8
-ゴルフネットワーク / Golf Network,https://cdnul194.cloudrsst.com/llive/golf_network_540/playlist.m3u8
-BS Fishing Vision,https://cdnul194.cloudrsst.com/live/FishingBC_540/playlist.m3u8
-ナショナル ジオグラフィック / National Geographic (540p),https://cdnul194.cloudrsst.com/live/National_geographic/playlist.m3u8
-アニマルプラネット(540p),http://cdnul194.cloudrsst.com/live/Animal_540/playlist.m3u8
-MTV,https://cdnul194.cloudrsst.com/live/mtv_540/playlist.m3u8
-
-失效,
-ANIMAX,http://123.30.146.172:21585/508/mpegts
-AT-X,http://123.30.146.172:21585/616/mpegts
-AXN,http://123.30.146.172:21585/626/mpegts
-BS11,http://123.30.146.172:21585/600/mpegts
-BS12 トゥエルビ,http://123.30.146.172:21585/601/mpegts
-BSJapanext,http://123.30.146.172:21585/535/mpegts
-BSフジ,http://123.30.146.172:21585/551/mpegts
-Discovery,http://123.30.146.172:21585/531/mpegts
-FOX,http://123.30.146.172:21585/614/mpegts
-Green TV,http://123.30.146.172:21585/507/mpegts
-Kansai TV,http://123.30.146.172:21585/518/mpegts
-Kidstaton,http://123.30.146.172:21585/502/mpegts
-LaLaTV,http://123.30.146.172:21585/615/mpegts
-MBS,http://123.30.146.172:21585/522/mpegts
-MONDO TV,http://123.30.146.172:21585/609/mpegts
-MTV,http://123.30.146.172:21585/501/mpegts
-Movie Plus ムービープラス,http://123.30.146.172:21585/505/mpegts
-Music Japan,http://123.30.146.172:21585/525/mpegts
-National Geographic,http://123.30.146.172:21585/529/mpegts
-TAKARAZUKA SKY STAGE,http://123.30.146.172:21585/606/mpegts
-TBSチャンネル 2,http://123.30.146.172:21585/610/mpegts
-TBSチャンネル１,http://123.30.146.172:21585/603/mpegts
-TOKYO MX 1,http://123.30.146.172:21585/521/mpegts
-TV OSAKA,http://123.30.146.172:21585/512/mpegts
-Toei Channel,http://123.30.146.172:21585/604/mpegts
-We NiziU! TV2,http://123.30.146.172:21585/611/mpegts
-YTV,http://123.30.146.172:21585/523/mpegts
-スポーツライブ＋HD,http://123.30.146.172:21585/627/mpegts
-スーパー！ドラマTV,http://123.30.146.172:21585/613/mpegts
-チャンネル銀河,http://123.30.146.172:21585/612/mpegts
-テレ朝チch1,http://123.30.146.172:21585/624/mpegts
-テレ朝チch2,http://123.30.146.172:21585/625/mpegts
-ファミリー劇場,http://123.30.146.172:21585/607/mpegts
-フジテレビNEXT,http://123.30.146.172:21585/623/mpegts
-フジテレビONE,http://123.30.146.172:21585/621/mpegts
-フジテレビTWO,http://123.30.146.172:21585/622/mpegts
-ホームドラマ!,http://123.30.146.172:21585/532/mpegts
-写真ビデオ,http://123.30.146.172:21585/620/mpegts
-日テレジータス,http://123.30.146.172:21585/534/mpegts
-日本映画専門チャンネル,http://123.30.146.172:21585/520/mpegts
-映画･チャンネルNECO,http://123.30.146.172:21585/504/mpegts
-時代劇専門チャンネル,http://123.30.146.172:21585/533/mpegts
-朝日放送テレビ 6,http://123.30.146.172:21585/550/mpegts
-衛星劇場,http://123.30.146.172:21585/605/mpegts
-釣りビジョン,http://123.30.146.172:21585/617/mpegts
-#日本#
-AXN海外ドラマ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS-TBS (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSアニマックス (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSスカパー! (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSテレ東 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BSフジ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS朝日 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-BS日テレ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-CNN J (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-FOX (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-GAORA (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 2 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 3 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS 4 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-LaLaTV (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-Music ON TV! (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK BS1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK BSプレミアム (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK教育 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-NHK総合 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-TBSテレビ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWシネマ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWプライム (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-WOWOWライブ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-キッズステーション (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ゴルフネットワーク (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スーパー!ドラマTV (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スカイA (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル1 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル2 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-スターチャンネル3 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネルNECO (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-チャンネル銀河 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-テレビ朝日 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-テレビ東京 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ファミリー劇場 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-フジテレビ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ホームドラマチャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ムービープラス (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-釣りビジョン (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-東映チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-歌謡ポップスチャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレNEWS24 (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日テレジータス (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本テレビ (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本映画専門チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-時代劇専門チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-囲碁・将棋チャンネル (720p Willfon),https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+数字频道,#genre#
+Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+iHOT爱喜剧,http://ikuai9.com:4000/udp/239.93.42.9:5140
+iHOT爱科幻,http://ikuai9.com:4000/udp/239.93.42.10:5140
+iHOT爱院线,http://ikuai9.com:4000/udp/239.93.42.11:5140
+iHOT爱悬疑,http://ikuai9.com:4000/udp/239.93.42.12:5140
+iHOT爱经典,http://ikuai9.com:4000/udp/239.93.42.13:5140
+iHOT爱谍战,http://ikuai9.com:4000/udp/239.93.42.14:5140
+iHOT爱都市,http://ikuai9.com:4000/udp/239.93.42.15:5140
+iHOT爱青春,http://ikuai9.com:4000/udp/239.93.42.16:5140
+iHOT爱幼教,http://ikuai9.com:4000/udp/239.93.42.17:5140
+iHOT爱玩具,http://ikuai9.com:4000/udp/239.93.42.18:5140
+iHOT爱电竞,http://ikuai9.com:4000/udp/239.93.42.19:5140
+iHOT爱赛车,http://ikuai9.com:4000/udp/239.93.42.20:5140
+iHOT爱怀旧,http://ikuai9.com:4000/udp/239.93.42.21:5140
+iHOT爱奇谈,http://ikuai9.com:4000/udp/239.93.42.22:5140
+iHOT爱动漫,http://ikuai9.com:4000/udp/239.93.42.23:5140
+#__#
+NewTV军事评论[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+NewTV军旅剧场[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+NewTV古装剧场[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+NewTV家庭剧场[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+NewTV怡伴健康[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+NewTV潮妈辣婆[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+NewTV爱情喜剧[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+NewTV精品大剧[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+NewTV金牌综艺[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
+NewTV精品纪录[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+NewTV精品体育[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+NewTV超级体育[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+NewTV农业致富[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+NewTV武博世界[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+NewTV炫舞未来[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+NewTV中国功夫[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+NewTV明星大片[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+NewTV家庭剧场[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225538/index.m3u8
+NewTV金牌综艺[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225525/index.m3u8
+NewTV精品纪录[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225545/index.m3u8
+黑莓电竞[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225559/index.m3u8
+黑莓动画[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225529/index.m3u8
+黑莓动画[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225529/index.m3u8
+黑莓动画[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225529/index.m3u8
+黑莓动画[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225529/index.m3u8
+黑莓动画[1920*1080],http://39.134.65.177/PLTV/88888888/224/3221225529/index.m3u8
+黑莓电影[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225681/index.m3u8
+超级电影[1920*1080],http://39.134.65.208/PLTV/88888888/224/3221225644/index.m3u8
+超级电影[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+超级综艺[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+超级电视剧[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#__#
+NewTV明星大片[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
+NewTV精品体育[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+超级电影[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+超级电影[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+超级综艺[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
+北京纪实[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+#__#
+NewTV怡伴健康[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225666/index.m3u8
+NewTV军事评论[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225757/index.m3u8
+NewTV军旅剧场[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225669/index.m3u8
+NewTV军旅剧场[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225669/index.m3u8
+NewTV农业致富[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225670/index.m3u8
+NewTV农业致富[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225670/index.m3u8
+NewTV军旅剧场[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225669/index.m3u8
+NewTV农业致富[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225670/index.m3u8
+NewTV古装剧场[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225678/index.m3u8
+NewTV古装剧场[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
+NewTV家庭剧场[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225713/index.m3u8
+NewTV怡伴健康[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225666/index.m3u8
+NewTV明星大片[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
+NewTV武搏世界[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225656/index.m3u8
+NewTV武搏世界[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
+NewTV潮妈辣婆[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225708/index.m3u8
+NewTV炫舞未来[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225707/index.m3u8
+NewTV炫舞未来[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225707/index.m3u8
+NewTV精品体育[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225709/index.m3u8
+NewTV精品大剧[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225714/index.m3u8
+NewTV精品纪录[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225710/index.m3u8
+NewTV超级体育[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+NewTV超级体育[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225648/index.m3u8
+NewTV金牌综艺[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225711/index.m3u8
+NewTV金牌综艺[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225711/index.m3u8
+NewTV超级体育[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+NewTV超级体育[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
+NewTV超级体育[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225767/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225750/index.m3u8
+黑莓动画[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225718/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+北京纪实[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+新华中文[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+新华中文[1280*720],http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+新华英文[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+新华英文[1280*720],http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
+超级综艺[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225620/index.m3u8
+超级综艺[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225768/index.m3u8
+超级综艺[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
+超级综艺[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
+超级电视剧[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225765/index.m3u8
+超级电视剧[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+超级电视剧[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
+超级电影[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225623/index.m3u8
+超级电影[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225766/index.m3u8
+超级电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+超级电影[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+超级电影[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
+#__#
+黑莓电竞[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225606/index.m3u8
+黑莓动画[1920*1080],http://111.40.196.9/PLTV/88888888/224/3221225628/index.m3u8
+黑莓电影[1920*1080],http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+黑莓动画[1920*1080],http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#__#
+CHC高清电影[1920*1080],http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
+CHC动作电影[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭影院[1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院[1920*1080],http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC家庭影院[1920*1080],http://117.148.179.157/PLTV/88888888/224/3221231799/index.m3u8
+#__#
+都市剧场[1920*1080],http://39.134.19.251:6610/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+全纪实[1920*1080],http://39.134.19.251:6610/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+MAX极速汽车[1920*1080],http://39.134.19.251:6610/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+上海纪实[1920*1080],http://39.134.19.248:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+金鹰纪实[1920*1080],http://39.134.19.248:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#__#
+新视觉[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+动漫秀场[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+劲爆体育[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+MAX极速汽车[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+全纪实[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+游戏风云[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+欢笑剧场[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+生活时尚[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+都市剧场[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+幸福彩[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#__#
+上海纪实[1920*1080],http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+东方影视[1920*1080],http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海都市频道[1920*1080],http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+上视外语频道[1920*1080],http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+第一财经[1920*1080],http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+新视觉[1920*1080],http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+全纪实[1920*1080],http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+MAX极速汽车[1920*1080],http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+动漫秀场[1920*1080],http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+欢笑剧场[1920*1080],http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+生活时尚[1920*1080],http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+游戏风云[1920*1080],http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+魅力足球[1920*1080],http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#__#
+4K剧场[1280*720],http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
+四海钓鱼[1280*720],http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+四海钓鱼[1280*720],http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
+环球旅游[1280*720],http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8
+幸福彩[1920*1080],http://117.148.179.156/PLTV/88888888/224/3221231730/index.m3u8
+上海纪实[1920*1080],http://117.148.179.168/PLTV/88888888/224/3221231612/index.m3u8
+欢笑剧场[3840*2160],http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
+东方影视[1920*1080],http://117.148.179.166/PLTV/88888888/224/3221231639/index.m3u8
+上海都市频道[1920*1080],http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
+金鹰纪实[1280*720],http://117.148.179.141/PLTV/88888888/224/3221231582/index.m3u8
+中国教育1台[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231714/index.m3u8
+BTV文艺[1280*720],http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8
+#__#
+清华大学[1920*1080],https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+新华中文[1280*720],https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+新华英文[1280*720],https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+新华中文[1280*720],http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+新华英文[1280*720],http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#__#
+都市剧场[1920*1080],http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+游戏风云[1920*1080],http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+魅力足球[1920*1080],http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+生活时尚[1920*1080],http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
+全纪实[1920*1080],http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
+东方影视[1920*1080],http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上视外语频道[1920*1080],http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+上视新闻频道[1920*1080],http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+动漫秀场[1920*1080],http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+欢笑剧场[1920*1080],http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+五星体育频道[1280*720],http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+第一财经[1920*1080],http://140.207.241.3:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+上海纪实[1920*1080],http://140.207.241.3:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+哈哈炫动[1920*1080],http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+上海都市频道[1920*1080],http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+新视觉[1920*1080],http://140.207.241.3:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+劲爆体育[1920*1080],http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+MAX极速汽车[1920*1080],http://140.207.241.3:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+幸福彩[1920*1080],http://140.207.241.3:8080/live/program/live/xfchd/4000000/mnf.m3u8
