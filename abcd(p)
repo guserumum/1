@@ -2046,11 +2046,11 @@ http://code.vthanhtivi.pw/getlink/jptv1/e0RBTvrOfe06oOkn-UXX5w==/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/jptv/P86mGOvGtsJuOiIBozlSTA==/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/sstv.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 JAPAN-TEST",-Space Shower TV
+#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/ss.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 JAPAN-TEST",-Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
 
 
-#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/sstv.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 JAPAN-TEST",-=Space Shower TV
+#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/ss.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="A.10 JAPAN-TEST",-=Space Shower TV
 http://luong.utako.moe/spaceshower/index.m3u8
 
 
