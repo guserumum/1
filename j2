@@ -1,4 +1,4 @@
-(404) not information code.
+404: Not Found
 
 
 
