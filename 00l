@@ -730,10 +730,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png" group-title="Indonesia STB",10. GTV
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="Indonesia STB",11. TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_250000=10008-mp4a_64000=20002.m3u8
-
 
 #EXTINF:-1 group-title="Indonesia STB"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_net_ver1.png",12. NET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -745,13 +743,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia STB",14. Kompas TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -759,28 +755,27 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #EXTINF:-1 group-title="Indonesia STB" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",15. iNews
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://iili.io/Jmod11a.png" group-title="Indonesia STB",16. Celestial Movies
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd|Referer=https://www.visionplus.id
+http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="Celestial Classic Movies" tvg-logo="https://iili.io/Jmod0qg.png" group-title="Indonesia STB",17. Celestial Classic Movies
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-id="99" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="Indonesia STB",16. Celestial Movies (dens)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
-
-
-#EXTINF:-1 tvg-id="110" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg" group-title="Indonesia STB",17. CCM (dens)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
-
-#EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/tvn-movies.png" group-title="Indonesia STB",18. TVN Movies (dens)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies HD" tvg-logo="https://iili.io/JmoHtne.png" group-title="Indonesia STB",18. TVN Movies
+https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|Referer=https://www.visionplus.id
+http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 
 #EXTINF:-1 tvg-id="49" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/66fa4b713f7285f31deb54c97d10bf3c.jpg" group-title="Indonesia STB",19. KIX(dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
-
 
 #EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="Indonesia STB",20. My Cinema Asia (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -798,18 +793,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="Indonesia STB",23. Citra Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-
-
 #EXTINF:-1 group-title="Indonesia STB"  tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",24. ATV
 https://cdn11jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
-
 
 #EXTINF:-1 group-title="Indonesia STB" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",25. Chinesse Drama[INDIHOME]
 https://cdngb196.indihometv.com/dass/130/chinesedrama/playlist.m3u8
@@ -820,33 +811,24 @@ https://cdngb196.indihometv.com/dass/107/chinesedrama/segment_ctvideo_cfm4s_ridp
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FsLzytsL/download-11.jpg" group-title="Indonesia STB",Wutang Kung-fu Collection 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop CHANNEL | INDONESIA PREMIUM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Indonesia STB",26. Bioskop Indonesia
 http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302218.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="Indonesia STB",27. IMC
-http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302262.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://iili.io/Jmny4iG.png" group-title="Indonesia STB",27. IMC
+https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|Referer=https://www.visionplus.id
 
 #EXTINF:-1 group-title="Indonesia STB" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",28. MAXSTREAM
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://iili.io/JZIno1s.png" group-title="Indonesia STB",29. AllPlay Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="MY: HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="Indonesia STB",30. HITS Movies
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157477
-
-
-
-<==================================================A.11 RADIO================================================>
-
-
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="Indonesia STB",31. Imelda FM Semarang
 https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
@@ -854,13 +836,11 @@ https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="Indonesia STB",32. Gajah Mada FM Semarang
 https://server.radioimeldafm.co.id:8040/gajahmadafm
 
-
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="Indonesia STB",33. Swara Semarang FM
 https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="Indonesia STB",34. Female Radio FM Semarang
 https://s1.cloudmu.id/listen/female_radio/radio.mp3
-
 
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="Indonesia STB",35. Rasika FM Semarang (Video)
 https://e.siar.us/live/rasika.m3u8
@@ -871,23 +851,17 @@ https://svara-stream.radioddns.net/rasikafm_stereo
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="Indonesia STB",37. Kiss FM Semarang
 https://ic.mari.co.id:8443/kisfm
 
-
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="Indonesia STB",38. Pop FM Semarang
 https://i.klikhost.com:9612/;
-
 
 #EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://iili.io/Jmo8ULF.png" group-title="Indonesia STB",39. RRI NET
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="Indonesia STB",40. Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8 
 
-
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnRrG.png" group-title="Indonesia STB",41. Simpang5 TV
 https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://iili.io/JbtnEQ9.png" group-title="Indonesia STB",42. TVKU
@@ -899,7 +873,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="Indonesia STB",43.=JTV
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="Indonesia STB",44. Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
