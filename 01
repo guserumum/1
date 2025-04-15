@@ -8392,11 +8392,11 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="iINDONESIA STB V+,02. Indosiar
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="A.13. Indonesia STB V+",02. Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
-#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",03. MNC TV
+#EXTINF:-1  tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="A.13. Indonesia STB V+",03. MNC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -8590,25 +8590,28 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-id="mycinemaasia.id" tvg-logo="https://bit.ly/40x0pxx",37=My Cinema Asia
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
-#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-id="thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png",38. Thrill
+
+
+#EXTINF:-1 group-title="A.13. Indonesia STB V+"  tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",38-ATV[INDIHOME]
+https://cdn11jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
+
+#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-logo="https://images.indihometv.com/logo_atv_big.png",38=ATV[INDIHOME]
+https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
+
+#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-id="xingkongtv.hk" tvg-logo="https://media.slid.es/uploads/jeonwoochi/images/789230/xingkong.png",39. Xing Kong TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd
+
+#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-id="thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png",40. Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
 
-#EXTINF:-1 group-title="A.13. Indonesia STB V+"  tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",39-ATV[INDIHOME]
-https://cdn11jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
-
-
-#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-logo="https://images.indihometv.com/logo_atv_big.png",39=ATV[INDIHOME]
-https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
-
-
-#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-id="xingkongtv.hk" tvg-logo="https://media.slid.es/uploads/jeonwoochi/images/789230/xingkong.png",40. Xing Kong TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd
 
 #EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-id="imc.id" tvg-logo="https://i.imgur.com/4r2D8xN.png",41. IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
