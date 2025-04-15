@@ -8021,6 +8021,9 @@ http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302211.m3u8
 #EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://iili.io/Jmo8ULF.png" group-title="A.11 CHANNEL | RADIO", RRI NET
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
 
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="A.11 CHANNEL | RADIO",11. TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_250000=10008-mp4a_64000=20002.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="A.11 CHANNEL | RADIO",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8 
