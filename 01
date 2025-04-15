@@ -1056,6 +1056,9 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",201Astro Ceria
 'http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1016545&extension=ts&play_token=A3sdZGAflh
 http://yesimes.oknirvana.club:8880/DAANM28791/haSVBpPYGa/71080
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Ws1LHJtMoU-Ph7UhrVEOdX0Z5H3LHfv7Sg&s" group-title="A.1 PILIHAN",201-Astro Ceria
+https://raw.githubusercontent.com/B-inalm3u-Custom/Film-Anak/B-inal22/astroceria.m3u8
 <--------------------------------------------------------------------------------------->
 #EXTINF:-1 group-title="A.1 PILIHAN" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sooka_Oh_My_Ceria.png",201OH MY Ceria
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
@@ -1088,8 +1091,29 @@ https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 <--------------------------------------------------------------------------------------->
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",211 Astro Warna
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/AstroWarna.m3u8
 
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",212 Astro Aura
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/AstroAura.m3u8
 
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",213 Astro Citra
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/AstroCitra.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",214 Astro Premier
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/AstroPremier.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",215 Astro Rania
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/AstroRania.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",216 Astro Ria
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/AstroRia.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",217 Astro Awasome
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/AstroAwasome.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="A.1 PILIHAN",218 Astro TV3
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/refs/heads/B-inal22/Tv3My.m3u8
 <------------------------------------------- MALAYSIA LAIN-LAIN 300 -------------------------------------------->
 <--------------------------------------------------------------------------------------->
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
