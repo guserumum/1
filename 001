@@ -997,6 +997,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnt
 
 <-------------------------------- CHINESE DRAMA ---------------------------------------------------->
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",46-Chinese Drama
+https://cdn14jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=bGnBEWardx2Hu8D5Mj2ipw&amp;uid=&amp;expp=1744968409
+
 #EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",46-CHINESE DRAMA[INDIHOME]
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/playlist.m3u8
 
