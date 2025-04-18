@@ -777,15 +777,15 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="01. Indonesia STB V+",16. Berita Satu (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqxLc4Sg/beritasatu-world.png" group-title="01. Indonesia STB V+",BeritaSatu World (T2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqxLc4Sg/beritasatu-world.png" group-title="01. Indonesia STB V+",16. BeritaSatu World (T2)
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="01. Indonesia STB V+" tvg-id="IDTV.ind" tvg-name="Berita Satu HD", Berita Satu HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gII3Eq8.png?v=1.1.1.1" group-title="01. Indonesia STB V+" tvg-id="IDTV.ind" tvg-name="Berita Satu HD",16. Berita Satu HD
 https://warningfm.github.io/v3/live/str/id/270f72deeb5843e.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20024070_ico.png?ts=1654802106" group-title="01. Indonesia STB V+",BERITASATU WORLD
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20024070_ico.png?ts=1654802106" group-title="01. Indonesia STB V+",16. BERITASATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="mncnews.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/20211213_224146.png/revision/latest",17. MNC News
@@ -1003,7 +1003,7 @@ https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/playlist.m3u8
 #EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",46=CHINESE DRAMA[INDIHOME]
 https://cdngb196.indihometv.com/dass/107/chinesedrama/segment_ctaudio_cfm4s_ridp0aa0br44100_cs97019808_w_useetv_mpd.m4s
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926912_ico.png?ts=1654776652" group-title="01. Indonesia STB V+",Chinese Drama (hi)
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926912_ico.png?ts=1654776652" group-title="01. Indonesia STB V+",46=Chinese Drama (hi)
 http://hi.hi-back.masuk.web.id:80/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 <-------------------------------- WUTANG MOVIE ---------------------------------------------------->
 
