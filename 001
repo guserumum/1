@@ -1163,6 +1163,13 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 <-------------------------------- JAPAN ---------------------------------------------------->
 
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="nhkworldjapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png",53. NHK World Japan (Indohome)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="nhkworldjapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png",53. NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -1223,6 +1230,15 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
 
 <-------------------------------- KOREAN ---------------------------------------------------->
+
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="tvnasia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",62. tvN (Indihome)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+
+
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="tvnasia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",62. tvN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -1814,7 +1830,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="St.A.12 Indonesia STB",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
 
 
 
