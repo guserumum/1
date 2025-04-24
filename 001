@@ -821,12 +821,18 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="01. Indonesia STB V+",13.-RTV (dens)
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",13. RTV (dens)
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",13.=RTV (dens)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
