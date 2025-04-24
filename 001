@@ -680,10 +680,17 @@ https://www.youtube.com
 <=================================================Indonesia STB V+===========================================>
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",A.13. Indonesia STB V+
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 group-title="A.13. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",01. ANTV (c)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",01. ANTV
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",01. ANTV (dens)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
 
@@ -692,7 +699,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
-#EXTINF:-1  tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="01. Indonesia STB V+",03.-MNC TV
+#EXTINF:-1  tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="01. Indonesia STB V+",03.-MNC TV (+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -706,7 +713,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",04.-RCTI
+#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",04.-RCTI (+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -727,7 +734,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",06. Trans TV
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",06.-Trans TV (vid)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",06. Trans TV (c)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
@@ -737,7 +751,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",08. Trans 7
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",08. Trans 7 (vid)
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",08. Trans 7 (c)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
@@ -748,7 +768,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",10.-GTV
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",10.-GTV (+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -788,19 +808,18 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/RTV/sa_dash/RTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 
-
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",15.-iNews
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",15.-iNews (+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
-
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",15. iNews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="01. Indonesia STB V+",16. Berita Satu (dens)
 https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
