@@ -873,6 +873,8 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="celestialmoviesindonesia.id" tvg-logo="https://i.imgur.com/KYP1xXZ.png",34.v+Celestial Movies
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index_video_1_0_9938700.mp4?m=1720513648
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="celestialmoviesindonesia.id" tvg-logo="https://i.imgur.com/KYP1xXZ.png",34.v++Celestial Movies
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd?start=1745489400&end=1745496600
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="celestialmoviesindonesia.id" tvg-logo="https://i.imgur.com/KYP1xXZ.png",34. Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
