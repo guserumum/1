@@ -1030,6 +1030,23 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/CelestialMovie/sa_dash/CelestialMovi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="CelestialMovies.id" tvg-name="Celestial Movies",34. Celestial Movies (khano)
 http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
 
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="01. Indonesia STB V+",17.=Celestial Movies (dens01)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h14/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
+
+
+#EXTINF:-1 tvg-id="110" tvg-logo="https://www.dens.tv/images/channel-logo/110.jpg" group-title="01. Indonesia STB V+",18. CCM (dens01)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
+
+
+
+
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img//jEuIgGn.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="CCM.id" tvg-name="Celestial Classic Movies", Celestial Classic Movies (khano2)
 http://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
