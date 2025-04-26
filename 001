@@ -1097,6 +1097,23 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/3a74cff24b6d3ae.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="tvnmoviesasia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png",36. tvN Movies (dens index)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="tvnmoviesasia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png",36. tvN Movies (dens01)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="tvnmoviesasia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png",36. tvN Movies (dens02)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://op-group1-swiftservehd-1.dens.tv/h/h21/02.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="tvnmoviesasia.hk" tvg-logo="https://i.imgur.com/c4XvwO2.png",36. tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1109,6 +1126,22 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",37. KIX  (dens index)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",37. KIX  (dens01)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+http://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",37. KIX  (dens02)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+http://op-group1-swiftservehd-1.dens.tv/h/h07/02.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UAaZ3G1.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="KIX.id" tvg-name="KIX", KIX (Khano)
 http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
@@ -1120,11 +1153,20 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd
 
-#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="01. Indonesia STB V+",38-My Cinema Asia (dens)
+#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="01. Indonesia STB V+",38-My Cinema Asia (dens index)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
+#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="01. Indonesia STB V+",38-My Cinema Asia (dens 01)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+
+#EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="01. Indonesia STB V+",38-My Cinema Asia (dens 02)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h193/02.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
 #EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="01. Indonesia STB V+",38-My Cinema Asia (khano)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1971,9 +2013,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="St.A.12 Indonesia STB",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
-
-
 
 
 
