@@ -759,7 +759,11 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. Indonesia STB V+" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",07. TVOne (dens)
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. Indonesia STB V+" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",07. TVOne (dens01)
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. Indonesia STB V+" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",07. TVOne (dens02)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
 
@@ -904,8 +908,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="01. Indonesia STB V+",16. Berita Satu (dens)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="01. Indonesia STB V+",16. Berita Satu (dens01)
 https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="01. Indonesia STB V+",16. Berita Satu (dens02)
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqxLc4Sg/beritasatu-world.png" group-title="01. Indonesia STB V+",16. BeritaSatu World (T2)
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
