@@ -759,6 +759,10 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
 
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. Indonesia STB V+" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",07. TVOne (dens index)
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. Indonesia STB V+" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",07. TVOne (dens01)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
@@ -780,6 +784,16 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",09.=Metro TV (dens01)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",09.=Metro TV (dens02)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -795,15 +809,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",09.=Metro TV (dens01)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="kplus.id" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png",09.=Metro TV (dens02)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
 
 
@@ -2262,8 +2268,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="St.A.12 Indonesia STB",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
-
 
 
 
