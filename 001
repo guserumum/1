@@ -1876,6 +1876,128 @@ http://117tv.icu:8080/live/X5xRz0/944877/125636.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01. Indonesia STB V+", 24/7 LOONEY TUNES
 http://117tv.icu:8080/live/X5xRz0/944877/125638.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/ss.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="01. Indonesia STB V+",31. Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
+
+
+#EXTINF:-1 tvg-id="SpaceShowerTV.jp" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/ss.png" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="01. Indonesia STB V+",31.=Space Shower TV
+http://luong.utako.moe/spaceshower/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="01. Indonesia STB V+",32. MTV Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
+
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png" group-title="01. Indonesia STB V+",33. Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
+
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="01. Indonesia STB V+",34. Music ON
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="01. Indonesia STB V+",35. MTV 
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="01. Indonesia STB V+",36. Yo! MTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="01. Indonesia STB V+",37. MTV Unplugged
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09489197fe600073c0570/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://dl.dropboxusercontent.com/s/pwtu8hvptb7ebwu/mtv.png" ,38. MTV 90s
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_mtvlive_ver1.png",39. MTV Live
+https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+
+
+#EXTINF:-1 tvg-name="ZECK MUSIK vevo" tvg-id="ZECK MUSIK vevo"  tvg-logo="https://i.ibb.co/Kr3FMb8/vevo.jpg" group-title="01. Indonesia STB V+",40. Vevo
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="01. Indonesia STB V+",41. Vevo R&B
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="01. Indonesia STB V+",42. Vevo True School Hip-Hop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="01. Indonesia STB V+",43. V2Beats 
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="01. Indonesia STB V+",44. OCTO
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",45. Imelda FM Semarang
+https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",46. Gajah Mada FM Semarang
+https://server.radioimeldafm.co.id:8040/gajahmadafm
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",47. Swara Semarang FM
+https://server.radioimeldafm.co.id/listen/swarasemarang/swarasemarang
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",48. Female Radio FM Semarang
+https://s1.cloudmu.id/listen/female_radio/radio.mp3
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",49. Rasika FM Semarang (Video)
+https://e.siar.us/live/rasika.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",49.=Rasika FM Semarang
+https://svara-stream.radioddns.net/rasikafm_stereo
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",50. Kiss FM Semarang
+https://ic.mari.co.id:8443/kisfm
+
+#EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",51. Pop FM Semarang
+https://i.klikhost.com:9612/;
+
+#EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://iili.io/Jmo8ULF.png" group-title="01. Indonesia STB V+",52. RRI NET
+https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="01. Indonesia STB V+",53. Semarang TV
+http://116.254.112.74:80/hls/cakralive.m3u8 
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnRrG.png" group-title="01. Indonesia STB V+",54. Simpang5 TV
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="TVKU" tvg-name="TVKU" tvg-logo="https://iili.io/JbtnEQ9.png" group-title="01. Indonesia STB V+",55. TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
+
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",56. JTV
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
+
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",56.=JTV
+http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="01. Indonesia STB V+",57. Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://iili.io/dA8evOF.png" group-title="01. Indonesia STB V+",58. Jawa Pos TV
+http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://warningfm.github.io/v3/img/1GW0BTz.png?v=1.0.0.1" group-title="01. Indonesia STB V+",59. TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://warningfm.github.io/v3/img/1GW0BTz.png?v=1.0.0.1" group-title="01. Indonesia STB V+",59.=TVRI Jawa Timur
+http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="01. Indonesia STB V+",60. Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="01. Indonesia STB V+",61. Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+
+
+
+
 <======================================================================================================================================================>
 <======================================================================================================================================================>
 <======================================================================================================================================================>
@@ -2140,7 +2262,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="St.A.12 Indonesia STB",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
 
 
 
