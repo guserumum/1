@@ -2002,8 +2002,52 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s" group-title="01. Indonesia STB V+",Maleo Tv
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NN60Hzb.png?v=1.0.0.1" group-title="01. Indonesia STB V+",Pop Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="01. Indonesia STB V+", MIC
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLtnxMj/MIC-tv.jpg" group-title="01. Indonesia STB V+", MUSIC INFORMATION CHANNEL
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/IMTV_BANDUNG.png/revision/latest/scale-to-width-down/1000?cb=20190527141455" group-title="01. Indonesia STB V+",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="01. Indonesia STB V+", MUSIK INDONESIA
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/95/LogoBahanaFMJKT.png",BAHANA RADIO MUSIC
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS[INDIHOME]
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 
+
+
+
+
+
+
+
+
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
+<======================================================================================================================================================>
 <======================================================================================================================================================>
 <======================================================================================================================================================>
 <======================================================================================================================================================>
@@ -2268,7 +2312,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="St.A.12 Indonesia STB",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
 
 
 
