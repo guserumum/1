@@ -1178,7 +1178,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",37. KIX  (dens01 free)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-http://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h07/01.m3u8
 
 #EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",37. KIX  (dens02 free)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2326,7 +2326,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="St.A.12 Indonesia STB",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
 
 
 
