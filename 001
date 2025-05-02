@@ -1691,7 +1691,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.m
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd 
 
 
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg"  group-title="01. Indonesia STB V+", Lifetime 
+#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg"  group-title="01. Indonesia STB V+", Lifetime (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Lifetime/sa_dash/Lifetime.mpd 
@@ -1979,7 +1979,7 @@ https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus
 <=====================================================================================================================================================>
 <=====================================================================================================================================================>
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",❤️❤️❤️ARSIP CHANNEL YANG OFFLINE❤️❤️❤️
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",❤️❤️❤️ARSIP V+ ORI YANG OFFLINE❤️❤️❤️
 https://
 
 
