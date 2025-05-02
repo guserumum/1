@@ -1314,6 +1314,10 @@ https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash/CGTN.mpd
 https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg"  group-title="01. Indonesia STB V+",58. CGTN Documentary (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd 
 
 #EXTINF:-1 tvg-id="Anhui TV" tvg-logo="https://static.mncnow.id/images/channel/70f920ae/6a22_r32.jpg"  group-title="01. Indonesia STB V+",59. Anhui TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -1776,11 +1780,6 @@ https://av-ch-cdn.mncnow.id/live/eds/Historynew/sa_dash/Historynew.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd 
 
-#EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg"  group-title="01. Indonesia STB V+",57. CGTN Documentary (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd 
-
 
 #EXTINF:-1 tvg-id="Moonbug" tvg-logo="https://static.mncnow.id/images/channel/2609612f/ce65_r32.jpg"  group-title="01. Indonesia STB V+", Moonbug (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -1877,10 +1876,19 @@ https://av-ch-cdn.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd 
-#EXTINF:-1 tvg-id="Music TV" tvg-logo="https://static.mncnow.id/images/channel/348a2140/0638_r32.jpg"  group-title="01. Indonesia STB V+", Music TV (V+)
+
+#EXTINF:-1 tvg-id="Music TV" tvg-logo="https://static.mncnow.id/images/channel/348a2140/0638_r32.jpg"  group-title="01. Indonesia STB V+", Music TV (V+ salah)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Music-HD/sa_dash/Music-HD.mpd
+
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem" tvg-logo="https://static.mncnow.id/images/channel/9cb13f53/285d_r32.jpg"  group-title="01. Indonesia STB V+", Al Quran Al Kareem (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
