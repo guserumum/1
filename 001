@@ -926,9 +926,17 @@ https://warningfm.github.io/v3/live/str/id/270f72deeb5843e.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
 
-#EXTINF:-1 tvg-id="SINDONEWS TV" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg"  group-title="01. Indonesia STB V+",17. SINDONEWS TV (V+)
+#EXTINF:-1 tvg-id="SINDONEWS TV" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg"  group-title="01. Indonesia STB V+",17.a SINDONEWS TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd 
+
+
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="mncnews.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/20211213_224146.png/revision/latest",17.b MNC News (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
 https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd 
 
 
@@ -967,9 +975,13 @@ http://116.254.112.74:80/hls/cakralive.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://warningfm.github.io/v3/img/JxtgBmg.png?v=1.0.0.1" group-title="01. Indonesia STB V+",24. Channel Jowo
+#EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://warningfm.github.io/v3/img/JxtgBmg.png?v=1.0.0.1" group-title="01. Indonesia STB V+",24.a Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
+#EXTINF:-1 tvg-id="hanacaraka TV" tvg-logo="https://static.mncnow.id/images/channel/f2f60371/def1_r32.jpg"  group-title="01. Indonesia STB V+", 24.b hanacaraka TV (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd 
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnRrG.png" group-title="01. Indonesia STB V+",25. Simpang5 TV
 https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
@@ -1091,7 +1103,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/02.m3u8?app_type=web&amp;userid=wn
 #EXTINF:-1 tvg-id="tvN Movies" tvg-logo="https://static.mncnow.id/images/channel/cfd38f8c/81ea_r32.jpg"  group-title="01. Indonesia STB V+",36. tvN Movies (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd 
+https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd 
 
 
 #EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",37. KIX  (dens01 free)
@@ -1900,10 +1912,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd 
 
-#EXTINF:-1 tvg-id="hanacaraka TV" tvg-logo="https://static.mncnow.id/images/channel/f2f60371/def1_r32.jpg"  group-title="01. Indonesia STB V+", hanacaraka TV (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd 
+
 
 #EXTINF:-1 tvg-id="CELEBRITIES TV" tvg-logo="https://static.mncnow.id/images/channel/a90f8ccb/6a35_r32.jpg"  group-title="01. Indonesia STB V+", CELEBRITIES TV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
