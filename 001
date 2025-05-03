@@ -678,6 +678,8 @@ https://www.youtube.com
 
 /////////Indonesia STB V+////////! 
 <=================================================Indonesia STB V+===========================================>
+
+<-------------------------------------------------NASIONAL---------------------------------------------------->
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",01. Indonesia STB V+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1058,15 +1060,12 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 
 
 
+<-------------------------------------------------ASIA MOVIE---------------------------------------------------->
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZEHEXrZ.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="CelestialMovies.id" tvg-name="Celestial Movies",34. Celestial Movies (khano)
 http://khano.nng.cloudns.us/live/m3u8/Mov/1375b51bb1b2c31.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="99" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="01. Indonesia STB V+",34.=Celestial Movies (dens01)
@@ -1159,15 +1158,10 @@ https://av-ch-cdn.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
 
-
 #EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="01. Indonesia STB V+",38-My Cinema Asia (khano)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
-
-
-
-
 
 
 #EXTINF:-1 group-title="01. Indonesia STB V+"  tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",39-ATV[INDIHOME]
@@ -1197,8 +1191,12 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FsLzytsL/download-11.jpg" group-title="01. Indonesia STB V+",42. Wutang Kung-fu Collection 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="01. Indonesia STB V+",42=IMC
+<-------------------------------------------------INDO MOVIE---------------------------------------------------->
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="01. Indonesia STB V+",43=IMC
 http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302262.m3u8
 
 #EXTINF:-1 tvg-id="IMC" tvg-logo="https://static.mncnow.id/images/channel/bf3ec50a/9c0f_r32.jpg"  group-title="01. Indonesia STB V+",42. IMC (V+)
@@ -1207,55 +1205,62 @@ http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302262.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd 
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",043-Citra Bioskop
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",044-Citra Bioskop
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",043-Citra Bioskop1
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",044-Citra Bioskop1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",043-Citra Bioskop2
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",044-Citra Bioskop2
 http://tvn.x10.mx/1/master-11.m3u8
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",043-Citra Bioskop3
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",044-Citra Bioskop3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",043-Citra Bioskop4
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",044-Citra Bioskop4
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",043-Citra Bioskop5
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",044-Citra Bioskop5
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
 
 
 <-------------------------------- citra 008 009 ---------------------------------------------------->
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",044=CITRA DRAMA[INDIHOME]
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",045=CITRA DRAMA[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="01. Indonesia STB V+",045=Citra Entertainment
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="01. Indonesia STB V+",046=Citra Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 
-<-------------------------------- WUTANG MOVIE ---------------------------------------------------->
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FsLzytsL/download-11.jpg" group-title="01. Indonesia STB V+",47. Wutang Kung-fu Collection 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
 <-------------------------------- BIOSKOP INONESIA ---------------------------------------------------->
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop CHANNEL | INDONESIA PREMIUM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="01. Indonesia STB V+",48. Bioskop Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop CHANNEL | INDONESIA PREMIUM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="01. Indonesia STB V+",47. Bioskop Indonesia
 http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302218.m3u8
 
 
+<-------------------------------- MAXSTREAM ---------------------------------------------------->
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",48. MAXSTREAM
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+<-------------------------------- ALL PLAY---------------------------------------------------->
+
+#EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://iili.io/JZIno1s.png" group-title="01. Indonesia STB V+",49. AllPlay Ent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 <-------------------------------- ZEE ---------------------------------------------------->
 
@@ -1271,22 +1276,11 @@ https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd 
 
-<-------------------------------- MAXSTREAM ---------------------------------------------------->
-
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",51. MAXSTREAM
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-<-------------------------------- MAXSTREAM ---------------------------------------------------->
-
-#EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://iili.io/JZIno1s.png" group-title="01. Indonesia STB V+",52. AllPlay Ent
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 <-------------------------------- JAPAN ---------------------------------------------------->
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="nhkworldjapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png",53. NHK World Japan (Indohome)
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="nhkworldjapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png",53. NHK World Japan (Indihome)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1367,6 +1361,9 @@ https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd 
 
+
+<-------------------------------------------------------- KOREA ------------------------------------------------------------->
+
 #EXTINF:-1 tvg-id="tvN" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg"  group-title="01. Indonesia STB V+",63. tvN (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1397,7 +1394,7 @@ https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
 
 
 
-<-------------------------------------------------------- HBO ------------------------------------------------------------->
+<-------------------------------------------------------- HBO AND ALL MOVIE ------------------------------------------------------------->
 #EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="01. Indonesia STB V+",66. HBO
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
@@ -1420,7 +1417,10 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
 
-
+#EXTINF:-1 tvg-id="Hits Movies" tvg-logo="https://static.mncnow.id/images/channel/d5966d04/9914_r32.jpg"  group-title="01. Indonesia STB V+", Hits Movies (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd 
 
 
 
@@ -1473,21 +1473,31 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/02.m3u8?app_type=web&amp;userid=w
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NoCJFNZ.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" group-title="01. Indonesia STB V+" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" tvg-name="MovieSphere", MovieSphere
-http://khano.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
+
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="01. Indonesia STB V+" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="5310" tvg-name="ROCK Action (HD)", ROCK Action
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="01. Indonesia STB V+" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="5310" tvg-name="ROCK Action (HD)", ROCK Action (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998d.m3u8
 
+
+#EXTINF:-1 tvg-id="Rock Action" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg"  group-title="01. Indonesia STB V+", Rock Action (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd 
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="01. Indonesia STB V+" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="5318" tvg-name="ROCK ENT (HD)", Rock Entertainment
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="01. Indonesia STB V+" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="5318" tvg-name="ROCK ENT (HD)", Rock Entertainment (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8uoL1CE.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="RockEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8uoL1CE.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="RockEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment (cdn)
 http://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
+
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg"  group-title="01. Indonesia STB V+", Rock Entertainment (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd 
 
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/i38ejrW.png?v=1.1.1.1" group-title="01. Indonesia STB V+" tvg-id="FX Movie Channel.us" tvg-name="FX Movie Channel.us", FX
@@ -1495,14 +1505,25 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sGJh5Jl.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="Galaxy.id" tvg-name="Galaxy", Galaxy
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sGJh5Jl.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="Galaxy.id" tvg-name="Galaxy", Galaxy (cdn)
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
+#EXTINF:-1 tvg-id="Galaxy" tvg-logo="https://static.mncnow.id/images/channel/b5a89a93/3a1b_r32.jpg"  group-title="01. Indonesia STB V+", Galaxy (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd 
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/YI7WVHx.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium", Galaxy Premium
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-logo="https://static.mncnow.id/images/channel/88be1dec/1906_r32.jpg"  group-title="01. Indonesia STB V+", Galaxy Premium (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd 
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest?cb=20111009111240" group-title="01. Indonesia STB V+" tvg-id="" , Studio Universal
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1518,10 +1539,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/UniversalHD/sa_dash/UniversalHD.mpd 
 
-#EXTINF:-1 tvg-id="Rock Action" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg"  group-title="01. Indonesia STB V+", Rock Action (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd 
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Studio_Universal_Africa.png/revision/latest?cb=20111009111240" group-title="01. Indonesia STB V+" tvg-id="" , Studio Universal (Indihome)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="ORIGINALS" tvg-logo="https://static.mncnow.id/images/channel/2a18bc54/bd5c_r32.jpg"  group-title="01. Indonesia STB V+", ORIGINALS (V+)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -1548,28 +1576,24 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd 
 
-#EXTINF:-1 tvg-id="Galaxy Premium" tvg-logo="https://static.mncnow.id/images/channel/88be1dec/1906_r32.jpg"  group-title="01. Indonesia STB V+", Galaxy Premium (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd 
 
-#EXTINF:-1 tvg-id="Galaxy" tvg-logo="https://static.mncnow.id/images/channel/b5a89a93/3a1b_r32.jpg"  group-title="01. Indonesia STB V+", Galaxy (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd 
 
-#EXTINF:-1 tvg-id="Hits Movies" tvg-logo="https://static.mncnow.id/images/channel/d5966d04/9914_r32.jpg"  group-title="01. Indonesia STB V+", Hits Movies (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd 
+
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg"  group-title="01. Indonesia STB V+", AXN (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd 
-#EXTINF:-1 tvg-id="Rock Entertainment" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg"  group-title="01. Indonesia STB V+", Rock Entertainment (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd 
+
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" group-title="01. Indonesia STB V+" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" tvg-name="MovieSphere", MovieSphere
+http://khano.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01. Indonesia STB V+", 24/7 DUCK TALES
 http://117tv.icu:8080/live/X5xRz0/944877/125636.m3u8
@@ -2099,6 +2123,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 
+
+<-------------------------------- ASIA MOVIE ---------------------------------------------------->
+
 #EXTINF:-1 tvg-id="99" tvg-logo="https://www.dens.tv/images/channel-logo/99.jpg" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="01. Indonesia STB V+",17.=Celestial Movies (dens index)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -2273,6 +2300,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
+
+<-------------------------------- JAPAN ---------------------------------------------------->
+
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="nhkworldjapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/640px-NHK_World.svg.png",53. NHK World Japan (c)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -2290,6 +2320,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPrem
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/Animax/sa_dash/Animax.mpd
+
+
+<-------------------------------- CHINA ---------------------------------------------------->
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="cgtndocumentary.cn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640",56. CGTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2330,7 +2363,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
 
-<-------------------------------- KOREAN ---------------------------------------------------->
+<-------------------------------- KOREA ---------------------------------------------------->
 
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="tvnasia.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",62. tvN (Indihome)
@@ -2358,6 +2391,8 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
 
+
+<-------------------------------- WORLD MOVIE ---------------------------------------------------->
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="hitsmovies.sg" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png",70. HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
