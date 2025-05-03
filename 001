@@ -707,7 +707,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
-#EXTINF:-1  tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="01. Indonesia STB V+",03.-MNC TV (+)
+#EXTINF:-1  tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png" group-title="01. Indonesia STB V+",03.-MNC TV (R+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -718,7 +718,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",04.-RCTI (+)
+#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/1d/56/5c135d3be1df35c891185c15bf57-bcp.jpg?x-oss-process=style/mq200" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",04.-RCTI (R+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -805,7 +805,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",10.-GTV (+)
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",10.-GTV (R+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -891,7 +891,7 @@ https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 https://av-ch-cdn.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd 
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",15.-iNews (+)
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="iNews.id" tvg-logo="https://iptv.urfan.web.id/logo/inews.png",15.-iNews (R+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1537,6 +1537,56 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="01. Indonesia STB V+",44. OCTO
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://static.mncnow.id/images/channel/8c57b182/c107_r32.jpg"  group-title="01. Indonesia STB V+", MTV Live (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd 
+
+#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg"  group-title="01. Indonesia STB V+", MTV 90s (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd 
+
+#EXTINF:-1 tvg-id="Music TV" tvg-logo="https://static.mncnow.id/images/channel/348a2140/0638_r32.jpg"  group-title="01. Indonesia STB V+", Music TV (V+ salah)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/Music-HD/sa_dash/Music-HD.mpd
+
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV (V+)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s" group-title="01. Indonesia STB V+",Maleo Tv
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NN60Hzb.png?v=1.0.0.1" group-title="01. Indonesia STB V+",Pop Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="01. Indonesia STB V+", MIC
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLtnxMj/MIC-tv.jpg" group-title="01. Indonesia STB V+", MUSIC INFORMATION CHANNEL
+https://v2.siar.us/mic/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/IMTV_BANDUNG.png/revision/latest/scale-to-width-down/1000?cb=20190527141455" group-title="01. Indonesia STB V+",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="01. Indonesia STB V+", MUSIK INDONESIA
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/95/LogoBahanaFMJKT.png",BAHANA RADIO MUSIC
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS[INDIHOME]
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+
+
 #EXTINF:-1  tvg-id="" tvg-url="" group-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" tvg-logo="https://raw.githubusercontent.com/guserumum/guser/refs/heads/main/rsmg.jpg" group-title="01. Indonesia STB V+",45. Imelda FM Semarang
 https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
 
@@ -1603,31 +1653,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s" group-title="01. Indonesia STB V+",Maleo Tv
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NN60Hzb.png?v=1.0.0.1" group-title="01. Indonesia STB V+",Pop Musik
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mic" tvg-name="Music Information Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/r0SVEF9.png?v=1.0.0.1" group-title="01. Indonesia STB V+", MIC
-http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLtnxMj/MIC-tv.jpg" group-title="01. Indonesia STB V+", MUSIC INFORMATION CHANNEL
-https://v2.siar.us/mic/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/IMTV_BANDUNG.png/revision/latest/scale-to-width-down/1000?cb=20190527141455" group-title="01. Indonesia STB V+",IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="01. Indonesia STB V+", MUSIK INDONESIA
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
-
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/95/LogoBahanaFMJKT.png",BAHANA RADIO MUSIC
-https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-
-#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS[INDIHOME]
-https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 
 
@@ -1867,27 +1892,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd 
 
-#EXTINF:-1 tvg-id="MTV Live" tvg-logo="https://static.mncnow.id/images/channel/8c57b182/c107_r32.jpg"  group-title="01. Indonesia STB V+", MTV Live (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd 
 
-#EXTINF:-1 tvg-id="MTV 90s" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg"  group-title="01. Indonesia STB V+", MTV 90s (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd 
-
-#EXTINF:-1 tvg-id="Music TV" tvg-logo="https://static.mncnow.id/images/channel/348a2140/0638_r32.jpg"  group-title="01. Indonesia STB V+", Music TV (V+ salah)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/Music-HD/sa_dash/Music-HD.mpd
-
-
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem" tvg-logo="https://static.mncnow.id/images/channel/9cb13f53/285d_r32.jpg"  group-title="01. Indonesia STB V+", Al Quran Al Kareem (V+)
@@ -1979,7 +1984,7 @@ https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus
 <=====================================================================================================================================================>
 <=====================================================================================================================================================>
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",❤️❤️❤️ARSIP V+ ORI YANG OFFLINE❤️❤️❤️
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",❤️❤️❤️ARSIP V+ ORI YANG OFF❤️❤️❤️
 https://
 
 
@@ -2603,7 +2608,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-cdn-fly.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
-
 
 
 
