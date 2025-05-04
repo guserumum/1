@@ -702,6 +702,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR21" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR21",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -3139,6 +3142,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="iCHANNEL | ZCAMPUR22",-Music ON
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR22" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR22",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -30570,6 +30576,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="iCHANNEL | ZCAMPUR23",-Music ON
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR23" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR23",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -32610,6 +32619,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR24" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR24",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -32653,6 +32665,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR25" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR25",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -32692,6 +32707,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="iCHANNEL | ZCAMPUR26",-Music ON
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR26" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR26",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -32733,6 +32751,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR27" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR27",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -32772,6 +32793,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="iCHANNEL | ZCAMPUR28",-Music ON
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR28" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR28",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -32814,6 +32838,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR29" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR29",=Neco(+)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -32852,6 +32879,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="iCHANNEL | ZCAMPUR30",-Music ON
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="iCHANNEL | ZCAMPUR30" ,Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 #EXTINF:-1 tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" group-title="iCHANNEL | ZCAMPUR30",=Neco(+)
