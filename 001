@@ -1038,6 +1038,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
 https://cdn11jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",28.=JTV (indihome 12)
 https://cdn12jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",28.=JTV (indihome 196 ori)
+https://cdngb196.indihometv.com/atm/mpd-vo/jtv/manifest.mpd
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",28.=JTV (indihome 196 dash)
+https://cdngb196.indihometv.com/atm/DASH/jtv/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg"  group-title="01. Indonesia STB V+",28. JTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -1388,21 +1393,24 @@ https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 11)
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 11)
 https://cdn11jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 12)
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
 https://cdn12jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 13)
+https://cdn13jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 196 ori)
-https://cdngb196.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 13 ori)
+https://cdn13jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=B2-EHzrj3ZewpJIv4xs34A&uid=&expp=1746368228
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 196)
-https://cdngb196.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 11)
-https://cdn11jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=OjwpUuhOHsCYTPlHhDntBQ&amp;uid=&amp;expp=1746366377
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 11)
-https://cdn11jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 13 dass)
+https://cdn13jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
+
+
+
 
 
 <-------------------------------------------------------- KOREA ------------------------------------------------------------->
