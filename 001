@@ -3307,7 +3307,7 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
 <------------------------------------------------------CHANNEL 24/7------------------------------------------------------------------->
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍CHANNEL 24/7🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛CHANNEL 24/7💛💛💛
 https://
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01. Indonesia STB V+", 24/7 FRIENDS
@@ -3352,7 +3352,7 @@ http://117tv.icu:8080/live/X5xRz0/944877/66401.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01. Indonesia STB V+", 24/7 PAW PATROL
 http://117tv.icu:8080/live/X5xRz0/944877/66311.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01. Indonesia STB V+", The KING OF QUEENS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01. Indonesia STB V+", 24/7 The KING OF QUEENS
 http://117tv.icu:8080/live/X5xRz0/944877/79567.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01. Indonesia STB V+", 24/7 Knight Rider*
