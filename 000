@@ -674,3 +674,12 @@
 
 #EXTINF:-1 tvg-logo="" group-title="🤍00.coba🤍",
 https://
+
+
+
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="🤍00.coba🤍",ch(indihome 12)
+https://cdn12jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=_cFBjo7dewnlfhfD7rRInw&uid=&expp=1746373864
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="🤍00.coba🤍",jtv(indihome 11)
+https://cdn12jtedge.indihometv.com/atm/mpd-vo/jtv/manifest.mpd?encp=&uid=&expp=
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="🤍00.coba🤍",jtv(indihome 11)
+https://cdn12jtedge.indihometv.com/atm/mpd-vo/jtv/manifest.mpd
