@@ -1394,23 +1394,11 @@ https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd 
 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 11)
-https://cdn11jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
-
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
-https://cdn12jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
+https://cdn12jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=_cFBjo7dewnlfhfD7rRInw&uid=&expp=1746373864
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 11)
-https://cdn11jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
-https://cdn12jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 11)
-https://cdn11jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=aLWYy0Bvm-Qv7edxIKkJ6w&uid=&expp=1746369651
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
-https://cdn12jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=aLWYy0Bvm-Qv7edxIKkJ6w&uid=&expp=1746369651
+#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",62.b CHINESE DRAMA[INDIHOME]
+https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/playlist.m3u8
 
 <-------------------------------------------------------- KOREA ------------------------------------------------------------->
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛KOREA💛💛💛
@@ -1530,9 +1518,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h193/02.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NoCJFNZ.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
 
 
 
@@ -1645,8 +1630,23 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD
 https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd 
 
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN[INDIHOME]
+https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
+
+
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5bcwkTkJ8beiv7JgcsBhgu_uX93S6p3tsQ&s" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" group-title="01. Indonesia STB V+" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" tvg-name="MovieSphere", MovieSphere
 http://khano.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NoCJFNZ.png?v=1.0.0.1" group-title="01. Indonesia STB V+" tvg-id="mjh-ahm-FAST" tvg-name="Action Hollywood Movies", Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
 
 
 
