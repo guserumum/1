@@ -1388,11 +1388,20 @@ https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd 
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome)
-https://cdngb196.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=q65aMp-RETGKVhiDw2P7-Q&uid=&expp=1746364792
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 11)
+https://cdn11jtedge.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 12)
+https://cdn12jtedge.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome free)
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 196 ori)
 https://cdngb196.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 196)
+https://cdngb196.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
+
+
+
 <-------------------------------------------------------- KOREA ------------------------------------------------------------->
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛KOREA💛💛💛
 https://
