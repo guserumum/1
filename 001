@@ -1389,16 +1389,16 @@ https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 11)
-https://cdn11jtedge.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
+https://cdn11jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 12)
-https://cdn12jtedge.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
+https://cdn12jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
 
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 196 ori)
 https://cdngb196.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome 196)
-https://cdngb196.indihometv.com/atm/DASH/chinesedrama/manifest.mpd
+https://cdngb196.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
 
 
 
