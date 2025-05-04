@@ -1031,8 +1031,11 @@ https://e.siar.us/live/rasika.m3u8
 
 
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",28.=JTV
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",28.=JTV (khano)
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
+
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",28.=JTV (indihome)
+https://cdn12jtedge.indihometv.com/atm/mpd-vo/jtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg"  group-title="01. Indonesia STB V+",28. JTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
@@ -1215,7 +1218,7 @@ https://
 #EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="01. Indonesia STB V+",43=IMC
 http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302262.m3u8
 
-#EXTINF:-1 tvg-id="IMC" tvg-logo="https://static.mncnow.id/images/channel/bf3ec50a/9c0f_r32.jpg"  group-title="01. Indonesia STB V+",42. IMC (V+)
+#EXTINF:-1 tvg-id="IMC" tvg-logo="https://static.mncnow.id/images/channel/bf3ec50a/9c0f_r32.jpg"  group-title="01. Indonesia STB V+",43. IMC (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/IndonesiaMovieChannels-HD.mpd 
@@ -1383,7 +1386,11 @@ https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd 
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome)
+https://cdngb196.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=q65aMp-RETGKVhiDw2P7-Q&uid=&expp=1746364792
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (Indihome free)
+https://cdngb196.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
 <-------------------------------------------------------- KOREA ------------------------------------------------------------->
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛KOREA💛💛💛
 https://
@@ -1777,10 +1784,10 @@ https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
 https://tvku.tv/hlsstream/hls/live.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/29afb26faff1ccd.m3u8
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",56. JTV
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",56. JTV (c)
 https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",56.=JTV
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="01. Indonesia STB V+",56.=JTV (khano)
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="01. Indonesia STB V+",57. Surabaya TV
