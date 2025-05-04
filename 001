@@ -1393,44 +1393,41 @@ https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd 
 
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
-https://cdn12jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=_cFBjo7dewnlfhfD7rRInw&uid=&expp=1746373864
-
-#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",62.b CHINESE DRAMA[INDIHOME]
-https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 08)
+#EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",63. Chinese Drama (indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
+
+
+
+
 <-------------------------------------------------------- KOREA ------------------------------------------------------------->
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛KOREA💛💛💛
 https://
 
 
-#EXTINF:-1 tvg-id="tvN" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg"  group-title="01. Indonesia STB V+",63. tvN (V+)
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg"  group-title="01. Indonesia STB V+",64. tvN (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/tvN/sa_dash/tvN.mpd 
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="arirangworld.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",64.-Arirang
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="arirangworld.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png",65.-Arirang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://static.mncnow.id/images/channel/cb5f43bb/38f8_r32.jpg"  group-title="01. Indonesia STB V+",64. Arirang (V+)
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://static.mncnow.id/images/channel/cb5f43bb/38f8_r32.jpg"  group-title="01. Indonesia STB V+",65. Arirang (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd
 
-#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://static.mncnow.id/images/channel/b43efb6c/0acb_r32.jpg"  group-title="01. Indonesia STB V+",64. Arirang(V+)
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://static.mncnow.id/images/channel/b43efb6c/0acb_r32.jpg"  group-title="01. Indonesia STB V+",65. Arirang(V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/Arirang/sa_dash/Arirang.mpd 
 
-#EXTINF:-1 tvg-id="One" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg"  group-title="01. Indonesia STB V+",65. One (V+)
+#EXTINF:-1 tvg-id="One" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg"  group-title="01. Indonesia STB V+",66. One (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd 
@@ -1442,24 +1439,24 @@ https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
 https://
 
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="01. Indonesia STB V+",66. HBO
+#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="01. Indonesia STB V+",67. HBO
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="01. Indonesia STB V+",67. HBO Hits
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="01. Indonesia STB V+",68. HBO Hits
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="01. Indonesia STB V+",68. HBO Signature 
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="01. Indonesia STB V+",69. HBO Signature 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="01. Indonesia STB V+",69. HBO Family 
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="01. Indonesia STB V+",70. HBO Family 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="01. Indonesia STB V+",70. CINEMAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="01. Indonesia STB V+",71. CINEMAX
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
@@ -1472,11 +1469,10 @@ https://
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd 
 
-
-
-
-
-
+#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5bcwkTkJ8beiv7JgcsBhgu_uX93S6p3tsQ&s" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTINF:-1 tvg-id="114" tvg-logo="https://www.dens.tv/images/channel-logo/114.jpg" group-title="01. Indonesia STB V+", My Family (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1624,8 +1620,6 @@ https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash/Cinemachi-Max-HD.m
 https://av-ch-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd 
 
 
-
-
 #EXTINF:-1 tvg-id="AXN" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg"  group-title="01. Indonesia STB V+", AXN (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1634,12 +1628,6 @@ https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN[INDIHOME]
 https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
-
-
-#EXTINF:-1 group-title="01. Indonesia STB V+"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5bcwkTkJ8beiv7JgcsBhgu_uX93S6p3tsQ&s" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" group-title="01. Indonesia STB V+" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" tvg-name="MovieSphere", MovieSphere
@@ -1687,6 +1675,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="01. Indonesia STB V+",34. Music ON
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png",Kayo Pops
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="01. Indonesia STB V+",35. MTV 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
