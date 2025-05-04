@@ -1400,18 +1400,17 @@ https://cdn11jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
 #EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
 https://cdn12jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 13)
-https://cdn13jtedge.indihometv.com/atm/DASH/chinesedrama/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 11)
+https://cdn11jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 13 ori)
-https://cdn13jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=B2-EHzrj3ZewpJIv4xs34A&uid=&expp=1746368228
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
+https://cdn12jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 13 dass)
-https://cdn13jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 11)
+https://cdn11jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=aLWYy0Bvm-Qv7edxIKkJ6w&uid=&expp=1746369651
 
-
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" "  group-title="01. Indonesia STB V+",62.b Chinese Drama (indihome 12)
+https://cdn12jtedge.indihometv.com/dass/107/chinesedrama/manifest_wuseetv.mpd?encp=aLWYy0Bvm-Qv7edxIKkJ6w&uid=&expp=1746369651
 
 <-------------------------------------------------------- KOREA ------------------------------------------------------------->
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛KOREA💛💛💛
