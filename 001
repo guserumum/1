@@ -686,10 +686,10 @@ https://
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💚💚💚PRODUK UTAMA💚💚💚
 https://
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛01. Indonesia STB V+💛💛💛
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💙💙💙01. Indonesia STB V+💙💙💙
 https://
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍NASIONAL🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛NASIONAL💛💛💛
 https://
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1072,7 +1072,7 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 
 <-------------------------------------------------ASIA MOVIE---------------------------------------------------->
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍ASIA MOVIE🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛ASIA MOVIE💛💛💛
 https://
 
 
@@ -1208,7 +1208,7 @@ https://av-ch-cdn.mncnow.id/live/eds/Thrill/sa_dash/Thrill.mpd
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
 <-------------------------------------------------INDO MOVIE---------------------------------------------------->
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍INDONESIA MOVIE🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛INDONESIA MOVIE💛💛💛
 https://
 
 
@@ -1295,7 +1295,7 @@ https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
 <-------------------------------- JAPAN ---------------------------------------------------->
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍JAPAN🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛JAPAN💛💛💛
 https://
 
 
@@ -1341,7 +1341,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 
 <-------------------------------- CHINESSE ---------------------------------------------------->
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍CHINA🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛CHINA💛💛💛
 https://
 
 
@@ -1385,7 +1385,7 @@ https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.m
 
 
 <-------------------------------------------------------- KOREA ------------------------------------------------------------->
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍KOREA🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛KOREA💛💛💛
 https://
 
 
@@ -1420,7 +1420,7 @@ https://av-ch-cdn.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
 
 
 <-------------------------------------------------------- HBO AND ALL MOVIE ------------------------------------------------------------->
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍HBO MOVIE🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛HBO GROUP💛💛💛
 https://
 
 
@@ -1445,7 +1445,7 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍WORLD MOVIE🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛WORLD MOVIE💛💛💛
 https://
 
 
@@ -1635,7 +1635,7 @@ http://117tv.icu:8080/live/X5xRz0/944877/125638.m3u8
 
 
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",🤍🤍🤍MUSIC-RADIO-LOCAL🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="",💛💛💛MUSIC-RADIO-LOCAL💛💛💛
 https://
 
 
@@ -1811,7 +1811,7 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 <=====================================================================================================================================================>
 <=====================================================================================================================================================>
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍ARSIP CHANNEL V+ BLM NO🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",💛💛💛ARSIP CHANNEL V+ BLM NO💛💛💛
 https://
 
  
@@ -2083,7 +2083,7 @@ https://terabit.web.id/media.mpd?id=113&type=dash|Referer=https://www.visionplus
 <=====================================================================================================================================================>
 <=====================================================================================================================================================>
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍ARSIP V+ ORI YANG OFF🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",💛💛💛ARSIP V+ ORI YANG OFF💛💛💛
 https://
 
 
@@ -2722,9 +2722,11 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.
 
 <------------------------------------------------------MOVIE CENTER------------------------------------------------------------------->
 
-#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍MOVIE CENTER🤍🤍🤍
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",💛💛💛MOVIE CENTER💛💛💛
 https://
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍HBO MAX🤍🤍🤍
+https://
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo.png",HBO MAX 1
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stream=924705
@@ -2806,7 +2808,8 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stre
 
 
 
-
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍DISNEY +🤍🤍🤍
+https://
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1280px-Disney%2B_logo.svg.png",DISNEY+ SERIES INFO
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stream=1337329
@@ -2864,7 +2867,8 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stre
 
 
 
-
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍NETFLIX🤍🤍🤍
+https://
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJf3uo0b5q18IIxri2cB3fXzB8wFXkGod_BBeDC780g&s",NETFLIX 1
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stream=924735
@@ -2904,7 +2908,8 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stre
 
 
 
-
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍MARVEL🤍🤍🤍
+https://
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Marvel_Logo_Design_History_Evolution_0_1024x1024.jpg?v=1694102537",MARVEL 1
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stream=924731
@@ -2919,7 +2924,8 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stre
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stream=924734
 
 
-
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo=" ",🤍🤍🤍ALL TIME BEST, SHOWTIME, HOLLYWOOD DLL🤍🤍🤍
+https://
 
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/The-best-movie-logos-Your-guide-to-the-most-iconic-film-logos-of-all-time.png",ALL TIME BEST 1
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:CC:4D:0E&extension=ts&stream=924698
