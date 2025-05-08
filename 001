@@ -1175,6 +1175,13 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 https://av-ch-cdn.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd 
 
 
+
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myca.png",38. My Cinema Asia HD (d index)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
 #EXTINF:-1 tvg-id="109" tvg-logo="https://bit.ly/40x0pxx" group-title="01. Indonesia STB V+",38-My Cinema Asia (dens index)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1474,6 +1481,11 @@ https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/myfam.png",My Family HD (d index)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+
 #EXTINF:-1 tvg-id="114" tvg-logo="https://www.dens.tv/images/channel-logo/114.jpg" group-title="01. Indonesia STB V+", My Family (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -1483,6 +1495,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h194/02.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
+
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mycinema.png",My Cinema HD (d index)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-logo="https://www.dens.tv/images/channel-logo/92.jpg" group-title="01. Indonesia STB V+", My Cinema Europe (dens)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1518,6 +1535,17 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/02.m3u8?app_type=web&amp;userid=w
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/warnertv.png" group-title="01. Indonesia STB V+",Warner TV (Indihome)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.16 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/warnertv.png" group-title="01. Indonesia STB V+",Warner TV (nonton site)
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1533.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="01. Indonesia STB V+" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="5310" tvg-name="ROCK Action (HD)", ROCK Action (cdn)
