@@ -1077,8 +1077,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="01. Indonesia STB V+",33. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="01. Indonesia STB V+",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 <-------------------------------------------------ASIA MOVIE---------------------------------------------------->
 
@@ -3948,8 +3948,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="01. Indonesia STB (Tivimate-Dens)",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
-
 
 
 
