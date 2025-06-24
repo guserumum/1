@@ -1814,6 +1814,9 @@ https://av-ch-cdn.mncnow.id/live/eds/Music-HD/sa_dash/Music-HD.mpd
 https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
 
+#EXTINF:-1 group-title="01. Indonesia STB V+" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",A Music Ch TV
+https://dr2t9f8nivbc6.cloudfront.net/hls/LG5RR2Q/4432BF8DF896/m.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e_wmjPTrnc3gimWefUzBc-Nl4jillgHvMj-o-aM1gw&s" group-title="01. Indonesia STB V+",Maleo Tv
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
@@ -3984,7 +3987,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="01. Indonesia STB (Tivimate-Dens)",61. Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
 
 
 
