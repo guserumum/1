@@ -700,6 +700,7 @@ https://
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #EXTINF:-1 group-title="01. Indonesia STB V+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",01. ANTV (dens02)
@@ -711,6 +712,11 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd 
+
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://static.mncnow.id/images/channel/14268442/234d_r32.jpg"  group-title="01. Indonesia STB V+",01. ANTV (Indihome)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://cdngb196.indihometv.com/atm/mpd-vo/ANTV/manifest.mpd?encp=&uid=&expp=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. Indonesia STB V+",02. Indosiar (dens01)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
