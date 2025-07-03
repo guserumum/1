@@ -716,7 +716,7 @@ https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="https://static.mncnow.id/images/channel/14268442/234d_r32.jpg"  group-title="01. Indonesia STB V+",01. ANTV (Indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://cdngb196.indihometv.com/atm/mpd-vo/ANTV/manifest.mpd?encp=&uid=&expp=
+https://cdngb196.indihometv.com/atm/mpd-vo/ANTV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="01. Indonesia STB V+",02. Indosiar (dens01)
 http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
